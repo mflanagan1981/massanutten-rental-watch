@@ -1,15 +1,79 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Saturday, October 17, 2026, 9:38 AM Eastern",
+  "updated": "Saturday, October 17, 2026, 9:47 AM Eastern",
   "updated_date": "2026-10-17",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
+  "take_action": [
+    {
+      "id": "call-comment-covenants",
+      "side": "Association",
+      "date": "2026-11-05",
+      "title": "Tell the association what you think of Covenants 1 and 19",
+      "detail": "The covenant rewrite is open for owner comment and no deadline has been posted. Two changes affect every owner. Covenant 1 would ban all outdoor fires without the association's written approval, which could cover gas fire tables, fire pits, outdoor fireplaces, and grills, and an approval could be revoked at any time. Covenant 19 adds an undefined test that activities, amenities, and lighting be consistent with a single-family home on a comparably sized lot, and lets the association set quiet hours for noise and lighting without an owner vote.",
+      "steps": [
+        "Open the feedback form. Each covenant has its own comment box.",
+        "Covenant 1 box: ask that outdoor fire be defined as burning wood, brush, leaves, or trash, and campfires; that gas fire features and grills be expressly allowed; and that an approval be revocable only for cause or during an official burn ban.",
+        "Covenant 19 box: ask that the sentence about being consistent with a single-family home be removed, that quiet hours be set only after owner notice and comment, and that entry, path, and stair safety lighting be exempt.",
+        "Use your own words. Short comments from many owners carry more weight than one long letter.",
+        "The form asks for your name, Massanutten address, and email."
+      ],
+      "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
+      "link_label": "Open the feedback form",
+      "due_label": "Before the task force meets",
+      "new": true
+    },
+    {
+      "id": "call-attend-taskforce-2026-11-05",
+      "side": "Association",
+      "date": "2026-11-05",
+      "title": "Go to the Covenant Amendment Task Force meeting on November 5",
+      "detail": "The Rules Committee and Covenant Amendment Task Force meets Thursday, November 5. It is the next chance to raise Covenants 1 and 19 in person. The association's calendar does not list a time or place.",
+      "steps": [
+        "Call the association office at (540) 289-9466 or email Mpoa@MassanuttenVillage.com to ask the time and place and whether owners may speak.",
+        "If owners may speak, keep comments to about three minutes and stick to Covenants 1 and 19."
+      ],
+      "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
+      "link_label": "See the association calendar",
+      "due_label": "Meeting",
+      "new": true
+    },
+    {
+      "id": "call-county-permit-2026-12-31",
+      "side": "County",
+      "date": "2026-12-31",
+      "title": "Existing short-term rentals: apply for your county permit by December 31",
+      "detail": "Under the ordinance adopted December 10, 2025, short-term rentals already operating in Rockingham County must apply for a county permit by December 31, 2026.",
+      "steps": [
+        "Read the requirements on the county's Short-Term Rentals page.",
+        "Download the application (updated October 2, 2026) and the affidavit of compliance from that page.",
+        "Apply well before the deadline in case the county asks for more information."
+      ],
+      "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
+      "link_label": "County short-term rental page",
+      "due_label": "Deadline",
+      "new": true
+    },
+    {
+      "id": "call-county-alerts",
+      "side": "County",
+      "title": "Get county agendas the moment they are posted",
+      "detail": "The county posts Board of Supervisors and Planning Commission agendas only a few days before each meeting. The next Board of Supervisors meeting is Wednesday, October 28 at 6 PM.",
+      "steps": [
+        "Sign up for the county's free email alerts and choose the Agenda Center alerts for the Board of Supervisors and the Planning Commission.",
+        "When an agenda includes short-term rentals, speak during public comment or write to your supervisor before the meeting."
+      ],
+      "link": "https://www.rockinghamcountyva.gov/list.aspx",
+      "link_label": "Sign up for county alerts",
+      "new": true
+    }
+  ],
   "key_findings_last_30_days": [
     {
       "id": "assoc-page-unchanged-2026-10-16",
       "side": "Association",
       "date": "2026-10-16",
-      "title": "Covenant proposal unchanged, still no deadline",
-      "detail": "The live proposed changes page matches the October 16 baseline in all twenty-four covenant sections. It still gives no feedback deadline and no adoption or vote process. The feedback form is public, but it requires the owner's name, Massanutten address, and email, so every comment is attributable.",
+      "title": "Covenant rewrite still open for comment, no deadline posted",
+      "detail": "The association's proposed changes page was unchanged as of October 17, and it still gives no feedback deadline and no adoption or vote process. Comments can still shape Covenants 1 and 19; see Take action at the top.",
       "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
       "new": true
     },

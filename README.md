@@ -42,13 +42,14 @@ If the builder strips scripts, keep only the iframe and give it a fixed height (
   "updated": "Friday, October 16, 2026, 1:54 PM Eastern",
   "updated_date": "2026-10-16",
   "about": "One sentence describing the feed.",
+  "take_action": [ ITEM, ... ],
   "key_findings_last_30_days": [ ITEM, ... ],
   "upcoming_meetings": [ ITEM, ... ],
   "deadlines": [ ITEM, ... ]
 }
 ```
 
-Each ITEM has `id` (stable, safe to use as an HTML anchor), `side` ("County" or "Association"), `title`, `detail` (plain text, one to four sentences), `new` (true if added in the last three days), and usually `date` (YYYY-MM-DD; a deadline whose date is not announced has none), `time` (meetings, for example "6:00 PM"), and `link` (the public source). Lists are already filtered and sorted: findings newest first and only from the last thirty days, meetings from today forward for sixty days, deadlines until they pass. The site does not need to filter anything.
+Each ITEM has `id` (stable, safe to use as an HTML anchor), `side` ("County" or "Association"), `title`, `detail` (plain text, one to four sentences), `new` (true if added in the last three days), and usually `date` (YYYY-MM-DD; a deadline whose date is not announced has none), `time` (meetings, for example "6:00 PM"), and `link` (the public source). Items in `take_action` are calls to action for owners and should be shown first and most prominently; they also have `steps` (a list of short instructions), `link_label` (text for the button that opens `link`), and, when there is a deadline or meeting, `due_label` (for example "Deadline") to show with `date`. Lists are already filtered and sorted: findings newest first and only from the last thirty days, meetings from today forward for sixty days, deadlines until they pass. The site does not need to filter anything.
 
 Please keep the attribution line ("Compiled from public Rockingham County and Massanutten Property Owners Association records; not affiliated with either") and the source links.
 
