@@ -8,19 +8,24 @@ Maintained by Michael Flanagan. The files here are rebuilt and pushed automatica
 
 This repository (served by GitHub Pages) exists so diamondelevation.com can show the feed. Pick whichever option suits the site; nothing here needs to be copied by hand, because the URLs below always serve the latest version.
 
+There are two pages, one per topic, and they are kept separate on purpose: Rockingham County's short-term rental rules, and the Massanutten Property Owners Association's covenant rewrite. Each page leads with one main thing owners can do, then other ways to help, the next few meetings, and what was found in the last thirty days.
+
 URLs:
 
-- Full page: https://mflanagan1981.github.io/massanutten-rental-watch/
-- Embed page (no title, tighter spacing, reports its own height): https://mflanagan1981.github.io/massanutten-rental-watch/embed.html
+- County page: https://mflanagan1981.github.io/massanutten-rental-watch/county.html (embed version: `embed-county.html`)
+- Association page: https://mflanagan1981.github.io/massanutten-rental-watch/association.html (embed version: `embed-association.html`)
+- https://mflanagan1981.github.io/massanutten-rental-watch/ and `embed.html` now only link to the two pages. If the site currently embeds `embed.html`, please switch to the two embeds above, one on each of the site's pages.
 - Data: https://mflanagan1981.github.io/massanutten-rental-watch/status.json (also at https://raw.githubusercontent.com/mflanagan1981/massanutten-rental-watch/main/status.json). Both allow cross-origin requests, so a page can `fetch()` it directly.
+
+The embed versions have no outer padding and report their own height, including when a visitor opens or closes a section.
 
 ### Option 1: embed with an iframe (simplest)
 
-Paste into the site builder's embed or custom HTML block. The script makes the frame grow to fit, so there is no inner scroll bar.
+Paste into the site builder's embed or custom HTML block, once on the county page and once on the association page, changing `embed-county.html` to `embed-association.html` for the second. The script makes the frame grow to fit, so there is no inner scroll bar.
 
 ```html
-<iframe id="rental-watch" src="https://mflanagan1981.github.io/massanutten-rental-watch/embed.html"
-        title="Massanutten Rental Watch" style="width:100%;border:0;min-height:900px" loading="lazy"></iframe>
+<iframe id="rental-watch" src="https://mflanagan1981.github.io/massanutten-rental-watch/embed-county.html"
+        title="Massanutten Rental Watch" style="width:100%;border:0;min-height:1200px" loading="lazy"></iframe>
 <script>
   window.addEventListener("message", function (e) {
     if (e.origin === "https://mflanagan1981.github.io" && e.data && e.data.type === "rental-watch-height") {
@@ -30,7 +35,7 @@ Paste into the site builder's embed or custom HTML block. The script makes the f
 </script>
 ```
 
-If the builder strips scripts, keep only the iframe and give it a fixed height (about 1,800 pixels on phones, 1,200 on desktop). The embed page follows the visitor's light or dark setting.
+If the builder strips scripts, keep only the iframe and give it a fixed height (about 1,500 pixels on phones, 1,200 on desktop). The embed pages follow the visitor's light or dark setting.
 
 ### Option 2: read the data and render it in the site's own style
 
@@ -39,9 +44,14 @@ If the builder strips scripts, keep only the iframe and give it a fixed height (
 ```json
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Friday, October 16, 2026, 1:54 PM Eastern",
-  "updated_date": "2026-10-16",
+  "updated": "Monday, October 19, 2026, 7:02 AM Eastern",
+  "updated_date": "2026-10-19",
   "about": "One sentence describing the feed.",
+  "signup": { "label": "Join the owners' email list", "link": "URL" },
+  "pages": {
+    "county": PAGE,
+    "association": PAGE
+  },
   "take_action": [ ITEM, ... ],
   "key_findings_last_30_days": [ ITEM, ... ],
   "upcoming_meetings": [ ITEM, ... ],
@@ -49,7 +59,9 @@ If the builder strips scripts, keep only the iframe and give it a fixed height (
 }
 ```
 
-Each ITEM has `id` (stable, safe to use as an HTML anchor), `side` ("County" or "Association"), `title`, `detail` (plain text, one to four sentences), `new` (true if added in the last three days), and usually `date` (YYYY-MM-DD; a deadline whose date is not announced has none), `time` (meetings, for example "6:00 PM"), and `link` (the public source). Items in `take_action` are calls to action for owners and should be shown first and most prominently; they also have `steps` (a list of short instructions), `link_label` (text for the button that opens `link`), and, when there is a deadline or meeting, `due_label` (for example "Deadline") to show with `date`. Lists are already filtered and sorted: findings newest first and only from the last thirty days, meetings from today forward for sixty days, deadlines until they pass. The site does not need to filter anything.
+Each PAGE has `name`, `headline`, `lede` (one or two sentences), `page` and `embed` (URLs), `main_action` (one ITEM, the thing to show biggest), `more_actions`, `coming_up` (the next four meetings and deadlines), and `findings` (last thirty days, newest first). Build each topic's page from its PAGE. The four lists after `pages` mix both topics and are kept for older integrations.
+
+Each ITEM has `id` (stable, safe to use as an HTML anchor), `side` ("County" or "Association"), `title`, `detail` (plain text, one to four sentences), `new` (true if added today or yesterday), and usually `date` (YYYY-MM-DD; a deadline whose date is not announced has none), `time` (meetings, for example "6:00 PM"), and `link` (the public source). Actions also have `short` (one or two sentences for the card; show it instead of `detail`), `steps` (short instructions, best shown collapsed under `steps_label`, for example "What to write"), `link_label` (text for the button that opens `link`), and, when there is a deadline or meeting, `due_label` (for example "Deadline") to show with `date`. Lists are already filtered and sorted; the site does not need to filter anything.
 
 Please keep the attribution line ("Compiled from public Rockingham County and Massanutten Property Owners Association records; not affiliated with either") and the source links.
 

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Massanutten covenants: Owners should shape the covenant rewrite</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,600&family=Public+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* One narrow column of short lines. Each side: headline, one main action card, one-line rows that open for detail. */
+:root {
+  --bg: #f6f7f4; --surface: #ffffff; --ink: #1d2622; --muted: #5d6b64; --rule: #d9dfd9;
+  --accent: #2f5d4e; --on-accent: #ffffff; --new: #b8432f; --new-bg: #fbe9e4; --soon: #8a5200; --soon-bg: #fdf1dc;
+  --display: "Newsreader", Georgia, "Times New Roman", serif;
+  --body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --data: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #121815; --surface: #1a221e; --ink: #e5ebe7; --muted: #9aa8a0; --rule: #2c3732;
+  --accent: #8cc4ad; --on-accent: #10201a; --new: #f08c74; --new-bg: #3a211b; --soon: #f0b860; --soon-bg: #35291a;
+  color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #121815; --surface: #1a221e; --ink: #e5ebe7; --muted: #9aa8a0; --rule: #2c3732;
+  --accent: #8cc4ad; --on-accent: #10201a; --new: #f08c74; --new-bg: #3a211b; --soon: #f0b860; --soon-bg: #35291a;
+  color-scheme: dark }
+body { background: var(--bg); color: var(--ink); font: 16px/1.5 var(--body); margin: 0; }
+.wrap { max-width: 40rem; margin: 0 auto; padding-block: 24px 48px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.wrap.compact { padding-block: 8px 16px; }
+.stamp { color: var(--muted); font: 0.78rem/1.4 var(--data); margin: 0 0 18px; }
+.eyebrow { font: 600 0.75rem/1 var(--body); text-transform: uppercase; letter-spacing: 0.09em; color: var(--accent); margin: 0 0 8px; }
+h1 { font: 600 1.9rem/1.15 var(--display); margin: 0 0 8px; text-wrap: balance; letter-spacing: -0.01em; }
+.lede { margin: 0 0 18px; color: var(--muted); }
+.side + .side { margin-top: 44px; padding-top: 28px; border-top: 1px solid var(--rule); }
+h2 { font: 600 0.75rem/1 var(--body); text-transform: uppercase; letter-spacing: 0.09em; color: var(--muted);
+  margin: 26px 0 8px; }
+.main { background: var(--surface); border: 2px solid var(--accent); border-radius: 10px; padding: 16px 18px;
+  display: grid; gap: 10px; }
+.main h3 { margin: 0; font: 600 1.2rem/1.3 var(--body); text-wrap: balance; }
+.main p { margin: 0; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font: 600 0.7rem/1 var(--body); text-transform: uppercase; letter-spacing: 0.06em; padding: 4px 7px; border-radius: 4px;
+  color: var(--soon); background: var(--soon-bg); }
+.chip.new { color: var(--new); background: var(--new-bg); }
+.btn { justify-self: start; background: var(--accent); color: var(--on-accent); text-decoration: none; font-weight: 600;
+  padding: 11px 18px; border-radius: 6px; }
+.btn:hover { filter: brightness(1.1); }
+details > summary { cursor: pointer; }
+.main details summary { color: var(--accent); font-weight: 600; }
+ol.steps { margin: 8px 0 0; padding-left: 1.3rem; display: grid; gap: 6px; }
+ul.rows { list-style: none; margin: 0; padding: 0; }
+ul.rows > li { border-bottom: 1px solid var(--rule); padding: 10px 0; }
+ul.rows > li:last-child { border-bottom: 0; }
+.rows summary { list-style: none; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+.rows summary::-webkit-details-marker { display: none; }
+.rows summary::before { content: "+"; color: var(--accent); font-weight: 600; width: 0.8rem; }
+.rows details[open] summary::before { content: "\2212"; }
+.rows .t { font-weight: 600; flex: 1 1 14rem; min-width: 0; }
+.rows .m { color: var(--muted); font: 0.8rem/1.4 var(--data); }
+.rows .more { padding: 8px 0 2px 1.6rem; display: grid; gap: 8px; color: var(--muted); font-size: 0.95rem; }
+.rows .more p { margin: 0; }
+.rows a.go { font-weight: 600; }
+ul.dates { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+ul.dates li { display: grid; grid-template-columns: 9.6rem minmax(0, 1fr); gap: 12px; }
+ul.dates .w { font: 0.85rem/1.5 var(--data); color: var(--muted); font-variant-numeric: tabular-nums; }
+.todo { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 4px 16px; margin-bottom: 30px; }
+.todo h2 { margin-top: 14px; color: var(--new); }
+a { color: var(--accent); text-underline-offset: 2px; }
+a:focus-visible, summary:focus-visible, .btn:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; border-radius: 3px; }
+.empty { color: var(--muted); font-style: italic; }
+.pick { display: grid; gap: 12px; }
+.pick a { display: grid; gap: 4px; background: var(--surface); border: 2px solid var(--accent); border-radius: 10px;
+  padding: 16px 18px; text-decoration: none; color: var(--ink); }
+.pick a:hover { filter: brightness(0.98); }
+.pick b { font: 600 1.15rem/1.3 var(--body); }
+.pick span { color: var(--muted); }
+footer { margin-top: 36px; color: var(--muted); font-size: 0.8rem; }
+@media (max-width: 20rem) { ul.dates li { grid-template-columns: minmax(0, 1fr); gap: 0; } }
+</style>
+</head>
+<body>
+<div class="wrap compact"><section class="side" id="association"><p class="eyebrow">Massanutten covenants</p><h1 class="h">Owners should shape the covenant rewrite</h1><p class="lede">The association is rewriting the covenants every owner lives under. No comment deadline or vote process has been posted, so comment now while changes are still possible.</p><article class="main" id="call-comment-covenants"><div class="chips"><span class="chip">Before the task force meets Thu Nov 5, in 17 days</span></div><h3>Tell the association what you think of Covenants 1 and 19</h3><p>Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. No deadline is posted.</p><a class="btn" href="https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants" target="_blank" rel="noopener">Open the feedback form</a><details><summary>What to write</summary><ol class="steps"><li>Open the feedback form. Each covenant has its own comment box.</li><li>Covenant 1 box: ask that outdoor fire be defined as burning wood, brush, leaves, or trash, and campfires; that gas fire features and grills be expressly allowed; and that an approval be revocable only for cause or during an official burn ban.</li><li>Covenant 19 box: ask that the sentence about being consistent with a single-family home be removed, that quiet hours be set only after owner notice and comment, and that entry, path, and stair safety lighting be exempt.</li><li>Use your own words. Short comments from many owners carry more weight than one long letter.</li><li>The form asks for your name, Massanutten address, and email.</li></ol></details></article><h2>More ways to help</h2><ul class="rows"><li id="call-attend-taskforce-2026-11-05"><details><summary><span class="t">Go to the Covenant Amendment Task Force meeting on November 5</span><span class=m>Meeting Thu Nov 5, in 17 days</span></summary><div class="more"><p>The next chance to raise Covenants 1 and 19 in person. Time and place are not posted yet.</p><ol class="steps"><li>Call the association office at (540) 289-9466 or email Mpoa@MassanuttenVillage.com to ask the time and place and whether owners may speak.</li><li>If owners may speak, keep comments to about three minutes and stick to Covenants 1 and 19.</li></ol><p><a class="go" href="https://www.massanuttenvillage.com/community-happenings-calendar" target="_blank" rel="noopener">See the association calendar</a></p></div></details></li><li><span class="t"><a class="go" href="https://www.diamondelevation.com/" target="_blank" rel="noopener">Join the owners&#x27; email list</a></span></li></ul><h2>Coming up</h2><ul class="dates"><li><span class="w">Thu Nov 5</span><span><a href="https://www.massanuttenvillage.com/community-happenings-calendar" target="_blank" rel="noopener">Rules Committee and Covenant Amendment Task Force</a></span></li><li><span class="w">Sat Nov 21</span><span><a href="https://www.massanuttenvillage.com/community-happenings-calendar" target="_blank" rel="noopener">Association Board of Directors</a></span></li><li><span class="w">Thu Dec 3</span><span><a href="https://www.massanuttenvillage.com/community-happenings-calendar" target="_blank" rel="noopener">Rules Committee and Covenant Amendment Task Force</a></span></li><li><span class="w">Tue Dec 8</span><span><a href="https://www.massanuttenvillage.com/community-happenings-calendar" target="_blank" rel="noopener">Firewise meeting</a></span></li></ul><h2>What we found, last 30 days</h2><ul class="rows"><li id="assoc-page-unchanged-2026-10-16"><details><summary><span class="t">Covenant rewrite still open for comment, no deadline posted</span><span class=m>Fri Oct 16</span></summary><div class="more"><p>The association&#x27;s proposed changes page was unchanged as of October 17, and it still gives no feedback deadline and no adoption or vote process. Comments can still shape Covenants 1 and 19; see Take action at the top.</p><p><a class="go" href="https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants" target="_blank" rel="noopener">Source</a></p></div></details></li><li id="assoc-firewise-2026-10-13"><details><summary><span class="t">Firewise meeting held October 13</span><span class=m>Tue Oct 13</span></summary><div class="more"><p>The association&#x27;s calendar shows a Firewise (wildfire safety) meeting on October 13. Wildfire risk is the likely reason for the Covenant 1 rewrite, which would ban all outdoor fires without the association&#x27;s written approval.</p><p><a class="go" href="https://www.massanuttenvillage.com/community-happenings-calendar" target="_blank" rel="noopener">Source</a></p></div></details></li></ul></section><footer>Updated Monday, October 19, 2026, 8:53 AM Eastern. Compiled from public Rockingham County and Massanutten Property Owners Association records; not affiliated with either. Every item links to its source.</footer></div>
+<script>(function () { function send() { parent.postMessage({ type: "rental-watch-height", height: document.documentElement.scrollHeight }, "*"); } window.addEventListener("load", send); window.addEventListener("resize", send); document.addEventListener("toggle", send, true); setTimeout(send, 600); })();</script>
+</body>
+</html>
