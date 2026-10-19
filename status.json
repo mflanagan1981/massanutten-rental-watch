@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Sunday, October 18, 2026, 6:50 AM Eastern",
-  "updated_date": "2026-10-18",
+  "updated": "Monday, October 19, 2026, 6:52 AM Eastern",
+  "updated_date": "2026-10-19",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "take_action": [
     {
@@ -75,7 +75,7 @@
       "title": "Covenant rewrite still open for comment, no deadline posted",
       "detail": "The association's proposed changes page was unchanged as of October 17, and it still gives no feedback deadline and no adoption or vote process. Comments can still shape Covenants 1 and 19; see Take action at the top.",
       "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
-      "new": true
+      "new": false
     },
     {
       "id": "county-barn-sup-2026-10-14",
@@ -84,7 +84,7 @@
       "title": "Board heard a 7 to 10 bedroom short-term rental request",
       "detail": "The October 14 Board of Supervisors agenda includes a special use permit for South Fork Services LLC to convert a barn on a 48-acre agricultural parcel into a second dwelling with seven to ten bedrooms and ten bathrooms, intended as a short-term rental. Staff noted a county short-term rental permit would also be required. The outcome is not posted yet; the minutes will show the vote and any conditions.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10142026-981",
-      "new": true
+      "new": false
     },
     {
       "id": "assoc-firewise-2026-10-13",
@@ -93,7 +93,7 @@
       "title": "Firewise meeting held October 13",
       "detail": "The association's calendar shows a Firewise (wildfire safety) meeting on October 13. Wildfire risk is the likely reason for the Covenant 1 rewrite, which would ban all outdoor fires without the association's written approval.",
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": true
+      "new": false
     },
     {
       "id": "county-application-form-2026-10-02",
@@ -102,7 +102,7 @@
       "title": "County updated the short-term rental application form",
       "detail": "The Short Term Rental Application in the county's document center carries a new date of October 2, 2026. What changed has not been compared yet.",
       "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23178",
-      "new": true
+      "new": false
     },
     {
       "id": "county-no-str-conditions-2026-09-23",
@@ -111,7 +111,7 @@
       "title": "Board keeps barring short-term rentals in second dwellings",
       "detail": "At the September 23 meeting, applicants for a second-dwelling permit (SUP26-0903) offered a condition prohibiting short-term rentals. On July 8 the Board added the same condition to another approval by a 4 to 1 vote, at Supervisor Wolfe-Garrison's request.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_09232026-978",
-      "new": true
+      "new": false
     }
   ],
   "upcoming_meetings": [
@@ -123,7 +123,7 @@
       "title": "Board of Supervisors",
       "detail": "20 East Gay Street, Harrisonburg. The agenda is usually posted the Friday before.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-      "new": true
+      "new": false
     },
     {
       "id": "county-pc-2026-11-04",
@@ -133,7 +133,7 @@
       "title": "Planning Commission",
       "detail": "Moved to Wednesday this month.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-      "new": true
+      "new": false
     },
     {
       "id": "assoc-catforce-2026-11-05",
@@ -142,7 +142,7 @@
       "title": "Rules Committee and Covenant Amendment Task Force",
       "detail": "Time and place not listed. The pre-meeting brief with a three-minute spoken comment is ready (mpoa-covenants/briefs/2026-11-05-brief.md).",
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": true
+      "new": false
     },
     {
       "id": "county-bos-2026-11-12",
@@ -152,7 +152,7 @@
       "title": "Board of Supervisors",
       "detail": "Afternoon meeting.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-      "new": true
+      "new": false
     },
     {
       "id": "assoc-board-2026-11-21",
@@ -161,7 +161,7 @@
       "title": "Association Board of Directors",
       "detail": "Saturday. Time and place not listed.",
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": true
+      "new": false
     },
     {
       "id": "county-pc-2026-12-01",
@@ -170,7 +170,7 @@
       "time": "6:00 PM",
       "title": "Planning Commission",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-      "new": true
+      "new": false
     },
     {
       "id": "assoc-catforce-2026-12-03",
@@ -179,7 +179,7 @@
       "title": "Rules Committee and Covenant Amendment Task Force",
       "detail": "Time and place not listed.",
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": true
+      "new": false
     },
     {
       "id": "assoc-firewise-2026-12-08",
@@ -188,7 +188,7 @@
       "title": "Firewise meeting",
       "detail": "Wildfire safety group; relevant to Covenant 1.",
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": true
+      "new": false
     },
     {
       "id": "county-bos-2026-12-09",
@@ -197,7 +197,7 @@
       "time": "3:00 PM",
       "title": "Board of Supervisors",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-      "new": true
+      "new": false
     }
   ],
   "deadlines": [
@@ -208,7 +208,7 @@
       "title": "Existing short-term rentals must apply for a county permit",
       "detail": "Set by the ordinance adopted December 10, 2025.",
       "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
-      "new": true
+      "new": false
     },
     {
       "id": "assoc-feedback-deadline",
@@ -216,7 +216,7 @@
       "title": "Covenant feedback deadline",
       "detail": "Not announced. Ask the association office.",
       "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
-      "new": true
+      "new": false
     }
   ]
 }
