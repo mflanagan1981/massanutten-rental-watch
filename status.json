@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Tuesday, October 20, 2026, 6:51 AM Eastern",
-  "updated_date": "2026-10-20",
+  "updated": "Wednesday, October 21, 2026, 6:50 AM Eastern",
+  "updated_date": "2026-10-21",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -32,7 +32,7 @@
         "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
         "link_label": "Contact the Board",
         "due_label": "Board meets",
-        "new": true
+        "new": false
       },
       "more_actions": [
         {
@@ -266,7 +266,7 @@
       "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
       "link_label": "Contact the Board",
       "due_label": "Board meets",
-      "new": true
+      "new": false
     },
     {
       "id": "call-comment-covenants",
