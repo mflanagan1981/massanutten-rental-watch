@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Friday, October 23, 2026, 6:52 AM Eastern",
-  "updated_date": "2026-10-23",
+  "updated": "Saturday, October 24, 2026, 6:52 AM Eastern",
+  "updated_date": "2026-10-24",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -19,15 +19,15 @@
         "side": "County",
         "date": "2026-10-28",
         "title": "Ask the Board of Supervisors to work with rental owners in public",
-        "short": "Email the Board, or speak at its October 28 meeting. Ask that owners be treated as stakeholders and that rental rules be set in public, with time for comment.",
+        "short": "Email the Board before it meets October 28. Ask that owners be treated as stakeholders and that rental rules be set in public, with time for comment.",
         "detail": "Owners are asking the county to treat short-term rental owners as stakeholders: meet with them, put changes to rental rules on public agendas, and allow comment before a vote.",
         "steps_label": "What to say",
         "steps": [
-          "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link.",
+          "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link. Write to all five.",
           "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
           "Ask for three things: meet with rental owners, put any change to rental rules on a public agenda, and allow public comment before a vote.",
           "Keep it short and courteous, in your own words.",
-          "To speak in person: 6 PM at 20 East Gay Street, Harrisonburg. The agenda posts the Friday before; check it for the public comment period."
+          "The October 28 agenda has no open public comment period, and speakers at its hearings must stay on the item being heard, so email is the way to be heard this time."
         ],
         "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
         "link_label": "Contact the Board",
@@ -78,8 +78,8 @@
           "date": "2026-10-28",
           "time": "6:00 PM",
           "title": "Board of Supervisors",
-          "detail": "20 East Gay Street, Harrisonburg. The agenda is usually posted the Friday before.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
+          "detail": "Agenda posted. No open public comment period. Public hearings at 7 PM on a District 5 rezoning (1.54 acres from medium-density residential to rural village) and two staff ordinance amendments; none is about rentals. A 3:30 PM work session covers community and tourism enhancement grants.",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
           "new": false
         },
         {
@@ -117,10 +117,46 @@
           "id": "county-barn-sup-2026-10-14",
           "side": "County",
           "date": "2026-10-14",
-          "title": "Board heard a 7 to 10 bedroom short-term rental request",
-          "detail": "The October 14 Board of Supervisors agenda includes a special use permit for South Fork Services LLC to convert a barn on a 48-acre agricultural parcel into a second dwelling with seven to ten bedrooms and ten bathrooms, intended as a short-term rental. Staff noted a county short-term rental permit would also be required. The outcome is not posted yet; the minutes will show the vote and any conditions.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10142026-981",
-          "new": false
+          "title": "Board denied the 10-bedroom short-term rental barn, 5 to 0",
+          "detail": "On October 14 the Board denied a permit to turn a barn on Resort Drive, McGaheysville, into a second dwelling with up to 10 bedrooms for short-term rental. Supervisor Hensley, who represents Massanutten, made the motion; he said the application left out maximum occupancy and that second dwellings on farm land were meant for family or farming. Chair Longcor and Supervisor Dale called the rental a commercial business in a non-commercial zone. Neighbors spoke against it. Source: the October 14 minutes in the October 28 agenda packet.",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
+          "new": true
+        },
+        {
+          "id": "county-no-str-condition-pullen-2026-10-14",
+          "side": "County",
+          "date": "2026-10-14",
+          "title": "Another approval came with a ban on short-term rentals",
+          "detail": "Also on October 14, the Board approved a second dwelling in Cross Keys for an aging parent, with the condition that neither house may ever be a short-term rental. Supervisor Dale proposed the condition. Supervisor Wolfe-Garrison objected that it limits property rights and sets a precedent, but the vote was 5 to 0.",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
+          "new": true
+        },
+        {
+          "id": "county-str-permits-26-2026-10",
+          "side": "County",
+          "date": "2026-10-14",
+          "title": "County has approved 26 short-term rental permits so far",
+          "detail": "The community development report in the October 28 agenda packet lists 26 approved permits. Every short-term rental already operating must apply by December 31.",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
+          "new": true
+        },
+        {
+          "id": "county-mwsa-rates-2026-10-14",
+          "side": "County",
+          "date": "2026-10-14",
+          "title": "Massanutten water and sewer rates up for review in early December",
+          "detail": "On October 14 county staff said they have finished the promised one-year review of Massanutten Water and Sewer Authority rates and asked for a work session with the authority in early December. No date is set yet.",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
+          "new": true
+        },
+        {
+          "id": "county-closed-litigation-2026-10-02",
+          "side": "County",
+          "date": "2026-10-02",
+          "title": "Board met in closed session on litigation, with the rental administrator present",
+          "detail": "On October 2 the Board held a 46-minute closed meeting for consultation with legal counsel about actual or probable litigation. The county's Short-Term Rental Administrator, the zoning administrators, and the community development director attended. The minutes do not say what the litigation is.",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
+          "new": true
         },
         {
           "id": "county-application-form-2026-10-02",
@@ -253,15 +289,15 @@
       "side": "County",
       "date": "2026-10-28",
       "title": "Ask the Board of Supervisors to work with rental owners in public",
-      "short": "Email the Board, or speak at its October 28 meeting. Ask that owners be treated as stakeholders and that rental rules be set in public, with time for comment.",
+      "short": "Email the Board before it meets October 28. Ask that owners be treated as stakeholders and that rental rules be set in public, with time for comment.",
       "detail": "Owners are asking the county to treat short-term rental owners as stakeholders: meet with them, put changes to rental rules on public agendas, and allow comment before a vote.",
       "steps_label": "What to say",
       "steps": [
-        "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link.",
+        "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link. Write to all five.",
         "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
         "Ask for three things: meet with rental owners, put any change to rental rules on a public agenda, and allow public comment before a vote.",
         "Keep it short and courteous, in your own words.",
-        "To speak in person: 6 PM at 20 East Gay Street, Harrisonburg. The agenda posts the Friday before; check it for the public comment period."
+        "The October 28 agenda has no open public comment period, and speakers at its hearings must stay on the item being heard, so email is the way to be heard this time."
       ],
       "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
       "link_label": "Contact the Board",
@@ -343,21 +379,57 @@
   ],
   "key_findings_last_30_days": [
     {
+      "id": "county-barn-sup-2026-10-14",
+      "side": "County",
+      "date": "2026-10-14",
+      "title": "Board denied the 10-bedroom short-term rental barn, 5 to 0",
+      "detail": "On October 14 the Board denied a permit to turn a barn on Resort Drive, McGaheysville, into a second dwelling with up to 10 bedrooms for short-term rental. Supervisor Hensley, who represents Massanutten, made the motion; he said the application left out maximum occupancy and that second dwellings on farm land were meant for family or farming. Chair Longcor and Supervisor Dale called the rental a commercial business in a non-commercial zone. Neighbors spoke against it. Source: the October 14 minutes in the October 28 agenda packet.",
+      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
+      "new": true
+    },
+    {
+      "id": "county-no-str-condition-pullen-2026-10-14",
+      "side": "County",
+      "date": "2026-10-14",
+      "title": "Another approval came with a ban on short-term rentals",
+      "detail": "Also on October 14, the Board approved a second dwelling in Cross Keys for an aging parent, with the condition that neither house may ever be a short-term rental. Supervisor Dale proposed the condition. Supervisor Wolfe-Garrison objected that it limits property rights and sets a precedent, but the vote was 5 to 0.",
+      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
+      "new": true
+    },
+    {
+      "id": "county-str-permits-26-2026-10",
+      "side": "County",
+      "date": "2026-10-14",
+      "title": "County has approved 26 short-term rental permits so far",
+      "detail": "The community development report in the October 28 agenda packet lists 26 approved permits. Every short-term rental already operating must apply by December 31.",
+      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
+      "new": true
+    },
+    {
+      "id": "county-mwsa-rates-2026-10-14",
+      "side": "County",
+      "date": "2026-10-14",
+      "title": "Massanutten water and sewer rates up for review in early December",
+      "detail": "On October 14 county staff said they have finished the promised one-year review of Massanutten Water and Sewer Authority rates and asked for a work session with the authority in early December. No date is set yet.",
+      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
+      "new": true
+    },
+    {
+      "id": "county-closed-litigation-2026-10-02",
+      "side": "County",
+      "date": "2026-10-02",
+      "title": "Board met in closed session on litigation, with the rental administrator present",
+      "detail": "On October 2 the Board held a 46-minute closed meeting for consultation with legal counsel about actual or probable litigation. The county's Short-Term Rental Administrator, the zoning administrators, and the community development director attended. The minutes do not say what the litigation is.",
+      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
+      "new": true
+    },
+    {
       "id": "assoc-page-unchanged-2026-10-16",
       "side": "Association",
       "date": "2026-10-16",
       "title": "Covenant rewrite still open for comment, no deadline posted",
       "detail": "The association's proposed changes page was unchanged as of October 17, and it still gives no feedback deadline and no adoption or vote process. Comments can still shape Covenants 1 and 19; see Take action at the top.",
       "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
-      "new": false
-    },
-    {
-      "id": "county-barn-sup-2026-10-14",
-      "side": "County",
-      "date": "2026-10-14",
-      "title": "Board heard a 7 to 10 bedroom short-term rental request",
-      "detail": "The October 14 Board of Supervisors agenda includes a special use permit for South Fork Services LLC to convert a barn on a 48-acre agricultural parcel into a second dwelling with seven to ten bedrooms and ten bathrooms, intended as a short-term rental. Staff noted a county short-term rental permit would also be required. The outcome is not posted yet; the minutes will show the vote and any conditions.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10142026-981",
       "new": false
     },
     {
@@ -395,8 +467,8 @@
       "date": "2026-10-28",
       "time": "6:00 PM",
       "title": "Board of Supervisors",
-      "detail": "20 East Gay Street, Harrisonburg. The agenda is usually posted the Friday before.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
+      "detail": "Agenda posted. No open public comment period. Public hearings at 7 PM on a District 5 rezoning (1.54 acres from medium-density residential to rural village) and two staff ordinance amendments; none is about rentals. A 3:30 PM work session covers community and tourism enhancement grants.",
+      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
       "new": false
     },
     {
