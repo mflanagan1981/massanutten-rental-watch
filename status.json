@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Wednesday, October 28, 2026, 6:53 AM Eastern",
-  "updated_date": "2026-10-28",
+  "updated": "Thursday, October 29, 2026, 6:52 AM Eastern",
+  "updated_date": "2026-10-29",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -17,9 +17,9 @@
       "main_action": {
         "id": "call-county-stakeholders",
         "side": "County",
-        "date": "2026-10-28",
+        "date": "2026-11-12",
         "title": "Ask the Board of Supervisors to work with rental owners in public",
-        "short": "Email the Board before it meets October 28. Ask that owners be treated as stakeholders and that rental rules be set in public, with time for comment.",
+        "short": "Email the Board before it meets November 12. Ask that owners be treated as stakeholders and that rental rules be set in public, with time for comment.",
         "detail": "Owners are asking the county to treat short-term rental owners as stakeholders: meet with them, put changes to rental rules on public agendas, and allow comment before a vote.",
         "steps_label": "What to say",
         "steps": [
@@ -27,7 +27,7 @@
           "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
           "Ask for three things: meet with rental owners, put any change to rental rules on a public agenda, and allow public comment before a vote.",
           "Keep it short and courteous, in your own words.",
-          "The October 28 agenda has no open public comment period, and speakers at its hearings must stay on the item being heard, so email is the way to be heard this time."
+          "The November 12 meeting is at 3 PM at 20 East Gay Street, Harrisonburg. Its agenda posts about a week before; this page will say whether it has an open public comment period. Until then, email is the sure way to be heard."
         ],
         "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
         "link_label": "Contact the Board",
@@ -73,16 +73,6 @@
       ],
       "coming_up": [
         {
-          "id": "county-bos-2026-10-28",
-          "side": "County",
-          "date": "2026-10-28",
-          "time": "6:00 PM",
-          "title": "Board of Supervisors",
-          "detail": "Agenda posted. No open public comment period. Public hearings at 7 PM on a District 5 rezoning (1.54 acres from medium-density residential to rural village) and two staff ordinance amendments; none is about rentals. A 3:30 PM work session covers community and tourism enhancement grants.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-          "new": false
-        },
-        {
           "id": "county-pc-2026-11-04",
           "side": "County",
           "date": "2026-11-04",
@@ -108,6 +98,15 @@
           "date": "2026-12-01",
           "time": "6:00 PM",
           "title": "Planning Commission",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
+          "new": false
+        },
+        {
+          "id": "county-bos-2026-12-09",
+          "side": "County",
+          "date": "2026-12-09",
+          "time": "3:00 PM",
+          "title": "Board of Supervisors",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
           "new": false
         }
@@ -287,9 +286,9 @@
     {
       "id": "call-county-stakeholders",
       "side": "County",
-      "date": "2026-10-28",
+      "date": "2026-11-12",
       "title": "Ask the Board of Supervisors to work with rental owners in public",
-      "short": "Email the Board before it meets October 28. Ask that owners be treated as stakeholders and that rental rules be set in public, with time for comment.",
+      "short": "Email the Board before it meets November 12. Ask that owners be treated as stakeholders and that rental rules be set in public, with time for comment.",
       "detail": "Owners are asking the county to treat short-term rental owners as stakeholders: meet with them, put changes to rental rules on public agendas, and allow comment before a vote.",
       "steps_label": "What to say",
       "steps": [
@@ -297,7 +296,7 @@
         "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
         "Ask for three things: meet with rental owners, put any change to rental rules on a public agenda, and allow public comment before a vote.",
         "Keep it short and courteous, in your own words.",
-        "The October 28 agenda has no open public comment period, and speakers at its hearings must stay on the item being heard, so email is the way to be heard this time."
+        "The November 12 meeting is at 3 PM at 20 East Gay Street, Harrisonburg. Its agenda posts about a week before; this page will say whether it has an open public comment period. Until then, email is the sure way to be heard."
       ],
       "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
       "link_label": "Contact the Board",
@@ -461,16 +460,6 @@
     }
   ],
   "upcoming_meetings": [
-    {
-      "id": "county-bos-2026-10-28",
-      "side": "County",
-      "date": "2026-10-28",
-      "time": "6:00 PM",
-      "title": "Board of Supervisors",
-      "detail": "Agenda posted. No open public comment period. Public hearings at 7 PM on a District 5 rezoning (1.54 acres from medium-density residential to rural village) and two staff ordinance amendments; none is about rentals. A 3:30 PM work session covers community and tourism enhancement grants.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-      "new": false
-    },
     {
       "id": "county-pc-2026-11-04",
       "side": "County",
