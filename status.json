@@ -1,12 +1,13 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Friday, October 30, 2026, 6:51 AM Eastern",
+  "updated": "Friday, October 30, 2026, 7:17 AM Eastern",
   "updated_date": "2026-10-30",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
     "link": "https://www.diamondelevation.com/"
   },
+  "report": "https://mflanagan1981.github.io/massanutten-rental-watch/report.md",
   "pages": {
     "county": {
       "name": "Rockingham County",

@@ -15,6 +15,7 @@ URLs:
 - County page: https://mflanagan1981.github.io/massanutten-rental-watch/county.html (embed version: `embed-county.html`)
 - Association page: https://mflanagan1981.github.io/massanutten-rental-watch/association.html (embed version: `embed-association.html`)
 - https://mflanagan1981.github.io/massanutten-rental-watch/ and `embed.html` now only link to the two pages. If the site currently embeds `embed.html`, please switch to the two embeds above, one on each of the site's pages.
+- Daily report: https://mflanagan1981.github.io/massanutten-rental-watch/report.md (also at https://raw.githubusercontent.com/mflanagan1981/massanutten-rental-watch/main/report.md). A short plain-text summary rewritten every morning: how many items are new since yesterday and what they are, then for each topic its main action, meetings and deadlines in the next fourteen days, and findings from the last thirty days, each with its source link. This is the easiest thing to check once a day. Earlier days are in the repository's commit history.
 - Data: https://mflanagan1981.github.io/massanutten-rental-watch/status.json (also at https://raw.githubusercontent.com/mflanagan1981/massanutten-rental-watch/main/status.json). Both allow cross-origin requests, so a page can `fetch()` it directly.
 
 The embed versions have no outer padding and report their own height, including when a visitor opens or closes a section.
@@ -48,6 +49,7 @@ If the builder strips scripts, keep only the iframe and give it a fixed height (
   "updated_date": "2026-10-19",
   "about": "One sentence describing the feed.",
   "signup": { "label": "Join the owners' email list", "link": "URL" },
+  "report": "URL of report.md",
   "pages": {
     "county": PAGE,
     "association": PAGE
