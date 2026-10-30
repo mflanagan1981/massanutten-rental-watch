@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Thursday, October 29, 2026, 6:52 AM Eastern",
-  "updated_date": "2026-10-29",
+  "updated": "Friday, October 30, 2026, 6:51 AM Eastern",
+  "updated_date": "2026-10-30",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -18,21 +18,21 @@
         "id": "call-county-stakeholders",
         "side": "County",
         "date": "2026-11-12",
-        "title": "Ask the Board of Supervisors to work with rental owners in public",
-        "short": "Email the Board before it meets November 12. Ask that owners be treated as stakeholders and that rental rules be set in public, with time for comment.",
-        "detail": "Owners are asking the county to treat short-term rental owners as stakeholders: meet with them, put changes to rental rules on public agendas, and allow comment before a vote.",
+        "title": "Before the November 12 work session on short-term rentals, ask the county to include owners",
+        "short": "The Board of Supervisors and the Planning Commission will discuss short-term rentals together on November 12. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing.",
+        "detail": "The Board of Supervisors and the Planning Commission will hold a joint work session on short-term rentals on November 12. Owners are asking the county to treat them as stakeholders: meet with them, and put any change to rental rules on a public agenda with time for comment.",
         "steps_label": "What to say",
         "steps": [
-          "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link. Write to all five.",
+          "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link. Write to all five, and ask the Community Development office, (540) 564-3030, to pass your note to the Planning Commission.",
           "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
-          "Ask for three things: meet with rental owners, put any change to rental rules on a public agenda, and allow public comment before a vote.",
+          "Ask for three things: meet with rental owners before any changes are drafted, put any change to rental rules on a public hearing agenda, and allow public comment before a vote.",
           "Keep it short and courteous, in your own words.",
-          "The November 12 meeting is at 3 PM at 20 East Gay Street, Harrisonburg. Its agenda posts about a week before; this page will say whether it has an open public comment period. Until then, email is the sure way to be heard."
+          "Work sessions usually take no public comment, so send it before November 12. The session's time and materials are not posted yet; this page will update when they are."
         ],
         "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
         "link_label": "Contact the Board",
-        "due_label": "Board meets",
-        "new": false
+        "due_label": "Work session",
+        "new": true
       },
       "more_actions": [
         {
@@ -93,6 +93,15 @@
           "new": false
         },
         {
+          "id": "county-joint-ws-2026-11-12",
+          "side": "County",
+          "date": "2026-11-12",
+          "title": "Joint work session on short-term rentals (Board of Supervisors and Planning Commission)",
+          "detail": "Announced on the November 4 Planning Commission agenda. Time not posted; the Board's regular meeting that day is at 3 PM.",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
+          "new": true
+        },
+        {
           "id": "county-pc-2026-12-01",
           "side": "County",
           "date": "2026-12-01",
@@ -100,18 +109,18 @@
           "title": "Planning Commission",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
           "new": false
-        },
-        {
-          "id": "county-bos-2026-12-09",
-          "side": "County",
-          "date": "2026-12-09",
-          "time": "3:00 PM",
-          "title": "Board of Supervisors",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-          "new": false
         }
       ],
       "findings": [
+        {
+          "id": "county-joint-ws-str-2026-11-12",
+          "side": "County",
+          "date": "2026-10-29",
+          "title": "Board and Planning Commission to hold a joint work session on short-term rentals November 12",
+          "detail": "The November 4 Planning Commission agenda lists upcoming joint work sessions with the Board of Supervisors: short-term rentals on November 12 and strategic planning on December 3. No time, materials, or agenda for the session are posted yet. Work sessions usually take no public comment, so writing beforehand is the way to be heard.",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
+          "new": true
+        },
         {
           "id": "county-barn-sup-2026-10-14",
           "side": "County",
@@ -186,7 +195,7 @@
       "main_action": {
         "id": "call-comment-covenants",
         "side": "Association",
-        "date": "2026-11-05",
+        "date": "2026-11-19",
         "title": "Tell the association what you think of Covenants 1 and 19",
         "short": "Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. No deadline is posted.",
         "detail": "The covenant rewrite is open for owner comment and no deadline has been posted. Two changes affect every owner. Covenant 1 would ban all outdoor fires without the association's written approval, which could cover gas fire tables, fire pits, outdoor fireplaces, and grills, and an approval could be revoked at any time. Covenant 19 adds an undefined test that activities, amenities, and lighting be consistent with a single-family home on a comparably sized lot, and lets the association set quiet hours for noise and lighting without an owner vote.",
@@ -205,12 +214,12 @@
       },
       "more_actions": [
         {
-          "id": "call-attend-taskforce-2026-11-05",
+          "id": "call-attend-taskforce-2026-11-19",
           "side": "Association",
-          "date": "2026-11-05",
-          "title": "Go to the Covenant Amendment Task Force meeting on November 5",
-          "short": "The next chance to raise Covenants 1 and 19 in person. Time and place are not posted yet.",
-          "detail": "The Rules Committee and Covenant Amendment Task Force meets Thursday, November 5. It is the next chance to raise Covenants 1 and 19 in person. The association's calendar does not list a time or place.",
+          "date": "2026-11-19",
+          "title": "Go to the Covenant Amendment Task Force meeting on November 19",
+          "short": "The task force now meets on its own on November 19. It is the next chance to raise Covenants 1 and 19 in person. Time and place are not posted yet.",
+          "detail": "The association's calendar moved the Covenant Amendment Task Force from a shared November 5 meeting with the Rules Committee to its own meeting on Thursday, November 19.",
           "steps_label": "How to go",
           "steps": [
             "Call the association office at (540) 289-9466 or email Mpoa@MassanuttenVillage.com to ask the time and place and whether owners may speak.",
@@ -219,7 +228,7 @@
           "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
           "link_label": "See the association calendar",
           "due_label": "Meeting",
-          "new": false
+          "new": true
         }
       ],
       "coming_up": [
@@ -227,10 +236,19 @@
           "id": "assoc-catforce-2026-11-05",
           "side": "Association",
           "date": "2026-11-05",
-          "title": "Rules Committee and Covenant Amendment Task Force",
-          "detail": "Time and place not listed.",
+          "title": "Rules Committee",
+          "detail": "The calendar no longer lists the covenant task force for this date; it now meets separately on November 19.",
           "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
           "new": false
+        },
+        {
+          "id": "association-taskforce-2026-11-19",
+          "side": "Association",
+          "date": "2026-11-19",
+          "title": "Covenant Amendment Task Force",
+          "detail": "Moved here from November 5, where it had shared a meeting with the Rules Committee. Time and place not listed.",
+          "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
+          "new": true
         },
         {
           "id": "assoc-board-2026-11-21",
@@ -245,22 +263,22 @@
           "id": "assoc-catforce-2026-12-03",
           "side": "Association",
           "date": "2026-12-03",
-          "title": "Rules Committee and Covenant Amendment Task Force",
-          "detail": "Time and place not listed.",
-          "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-          "new": false
-        },
-        {
-          "id": "assoc-firewise-2026-12-08",
-          "side": "Association",
-          "date": "2026-12-08",
-          "title": "Firewise meeting",
-          "detail": "Wildfire safety group; relevant to Covenant 1.",
+          "title": "Rules Committee",
+          "detail": "The calendar no longer lists the covenant task force for this date.",
           "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
           "new": false
         }
       ],
       "findings": [
+        {
+          "id": "assoc-taskforce-moved-2026-11-19",
+          "side": "Association",
+          "date": "2026-10-30",
+          "title": "Covenant task force meeting moved to November 19",
+          "detail": "The association's calendar now lists November 5 and December 3 as Rules Committee meetings only, and gives the Covenant Amendment Task Force its own meeting on Thursday, November 19. No time or place is listed.",
+          "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
+          "new": true
+        },
         {
           "id": "assoc-page-unchanged-2026-10-16",
           "side": "Association",
@@ -287,26 +305,26 @@
       "id": "call-county-stakeholders",
       "side": "County",
       "date": "2026-11-12",
-      "title": "Ask the Board of Supervisors to work with rental owners in public",
-      "short": "Email the Board before it meets November 12. Ask that owners be treated as stakeholders and that rental rules be set in public, with time for comment.",
-      "detail": "Owners are asking the county to treat short-term rental owners as stakeholders: meet with them, put changes to rental rules on public agendas, and allow comment before a vote.",
+      "title": "Before the November 12 work session on short-term rentals, ask the county to include owners",
+      "short": "The Board of Supervisors and the Planning Commission will discuss short-term rentals together on November 12. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing.",
+      "detail": "The Board of Supervisors and the Planning Commission will hold a joint work session on short-term rentals on November 12. Owners are asking the county to treat them as stakeholders: meet with them, and put any change to rental rules on a public agenda with time for comment.",
       "steps_label": "What to say",
       "steps": [
-        "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link. Write to all five.",
+        "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link. Write to all five, and ask the Community Development office, (540) 564-3030, to pass your note to the Planning Commission.",
         "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
-        "Ask for three things: meet with rental owners, put any change to rental rules on a public agenda, and allow public comment before a vote.",
+        "Ask for three things: meet with rental owners before any changes are drafted, put any change to rental rules on a public hearing agenda, and allow public comment before a vote.",
         "Keep it short and courteous, in your own words.",
-        "The November 12 meeting is at 3 PM at 20 East Gay Street, Harrisonburg. Its agenda posts about a week before; this page will say whether it has an open public comment period. Until then, email is the sure way to be heard."
+        "Work sessions usually take no public comment, so send it before November 12. The session's time and materials are not posted yet; this page will update when they are."
       ],
       "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
       "link_label": "Contact the Board",
-      "due_label": "Board meets",
-      "new": false
+      "due_label": "Work session",
+      "new": true
     },
     {
       "id": "call-comment-covenants",
       "side": "Association",
-      "date": "2026-11-05",
+      "date": "2026-11-19",
       "title": "Tell the association what you think of Covenants 1 and 19",
       "short": "Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. No deadline is posted.",
       "detail": "The covenant rewrite is open for owner comment and no deadline has been posted. Two changes affect every owner. Covenant 1 would ban all outdoor fires without the association's written approval, which could cover gas fire tables, fire pits, outdoor fireplaces, and grills, and an approval could be revoked at any time. Covenant 19 adds an undefined test that activities, amenities, and lighting be consistent with a single-family home on a comparably sized lot, and lets the association set quiet hours for noise and lighting without an owner vote.",
@@ -324,12 +342,12 @@
       "new": false
     },
     {
-      "id": "call-attend-taskforce-2026-11-05",
+      "id": "call-attend-taskforce-2026-11-19",
       "side": "Association",
-      "date": "2026-11-05",
-      "title": "Go to the Covenant Amendment Task Force meeting on November 5",
-      "short": "The next chance to raise Covenants 1 and 19 in person. Time and place are not posted yet.",
-      "detail": "The Rules Committee and Covenant Amendment Task Force meets Thursday, November 5. It is the next chance to raise Covenants 1 and 19 in person. The association's calendar does not list a time or place.",
+      "date": "2026-11-19",
+      "title": "Go to the Covenant Amendment Task Force meeting on November 19",
+      "short": "The task force now meets on its own on November 19. It is the next chance to raise Covenants 1 and 19 in person. Time and place are not posted yet.",
+      "detail": "The association's calendar moved the Covenant Amendment Task Force from a shared November 5 meeting with the Rules Committee to its own meeting on Thursday, November 19.",
       "steps_label": "How to go",
       "steps": [
         "Call the association office at (540) 289-9466 or email Mpoa@MassanuttenVillage.com to ask the time and place and whether owners may speak.",
@@ -338,7 +356,7 @@
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
       "link_label": "See the association calendar",
       "due_label": "Meeting",
-      "new": false
+      "new": true
     },
     {
       "id": "call-county-permit-2026-12-31",
@@ -377,6 +395,24 @@
     }
   ],
   "key_findings_last_30_days": [
+    {
+      "id": "assoc-taskforce-moved-2026-11-19",
+      "side": "Association",
+      "date": "2026-10-30",
+      "title": "Covenant task force meeting moved to November 19",
+      "detail": "The association's calendar now lists November 5 and December 3 as Rules Committee meetings only, and gives the Covenant Amendment Task Force its own meeting on Thursday, November 19. No time or place is listed.",
+      "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
+      "new": true
+    },
+    {
+      "id": "county-joint-ws-str-2026-11-12",
+      "side": "County",
+      "date": "2026-10-29",
+      "title": "Board and Planning Commission to hold a joint work session on short-term rentals November 12",
+      "detail": "The November 4 Planning Commission agenda lists upcoming joint work sessions with the Board of Supervisors: short-term rentals on November 12 and strategic planning on December 3. No time, materials, or agenda for the session are posted yet. Work sessions usually take no public comment, so writing beforehand is the way to be heard.",
+      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
+      "new": true
+    },
     {
       "id": "county-barn-sup-2026-10-14",
       "side": "County",
@@ -474,8 +510,8 @@
       "id": "assoc-catforce-2026-11-05",
       "side": "Association",
       "date": "2026-11-05",
-      "title": "Rules Committee and Covenant Amendment Task Force",
-      "detail": "Time and place not listed.",
+      "title": "Rules Committee",
+      "detail": "The calendar no longer lists the covenant task force for this date; it now meets separately on November 19.",
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
       "new": false
     },
@@ -488,6 +524,24 @@
       "detail": "Afternoon meeting.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
       "new": false
+    },
+    {
+      "id": "county-joint-ws-2026-11-12",
+      "side": "County",
+      "date": "2026-11-12",
+      "title": "Joint work session on short-term rentals (Board of Supervisors and Planning Commission)",
+      "detail": "Announced on the November 4 Planning Commission agenda. Time not posted; the Board's regular meeting that day is at 3 PM.",
+      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
+      "new": true
+    },
+    {
+      "id": "association-taskforce-2026-11-19",
+      "side": "Association",
+      "date": "2026-11-19",
+      "title": "Covenant Amendment Task Force",
+      "detail": "Moved here from November 5, where it had shared a meeting with the Rules Committee. Time and place not listed.",
+      "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
+      "new": true
     },
     {
       "id": "assoc-board-2026-11-21",
@@ -511,8 +565,8 @@
       "id": "assoc-catforce-2026-12-03",
       "side": "Association",
       "date": "2026-12-03",
-      "title": "Rules Committee and Covenant Amendment Task Force",
-      "detail": "Time and place not listed.",
+      "title": "Rules Committee",
+      "detail": "The calendar no longer lists the covenant task force for this date.",
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
       "new": false
     },
