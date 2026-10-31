@@ -1,16 +1,12 @@
 # Massanutten Rental Watch: daily report
 
-Updated Friday, October 30, 2026, 7:17 AM Eastern.
+Updated Saturday, October 31, 2026, 6:52 AM Eastern.
 
-**5 new since yesterday.**
+**1 new since yesterday.**
 
 ## Rockingham County: Work with rental owners, in public
 
-New:
-- Board and Planning Commission to hold a joint work session on short-term rentals November 12. Thursday, October 29. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984
-- Joint work session on short-term rentals (Board of Supervisors and Planning Commission). Thursday, November 12. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984
-
-Main action: Before the November 12 work session on short-term rentals, ask the county to include owners. Work session Thu Nov 12, in 13 days. The Board of Supervisors and the Planning Commission will discuss short-term rentals together on November 12. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
+Main action: Before the November 12 work session on short-term rentals, ask the county to include owners. Work session Thu Nov 12, in 12 days. The Board of Supervisors and the Planning Commission will discuss short-term rentals together on November 12. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
 
 Next 14 days and open deadlines:
 - Planning Commission. Wednesday, November 4, 6:00 PM. https://www.rockinghamcountyva.gov/AgendaCenter
@@ -32,17 +28,16 @@ Page: https://mflanagan1981.github.io/massanutten-rental-watch/county.html
 ## Massanutten covenants: Owners should shape the covenant rewrite
 
 New:
-- Go to the Covenant Amendment Task Force meeting on November 19. Thursday, November 19. https://www.massanuttenvillage.com/community-happenings-calendar
-- Covenant task force meeting moved to November 19. Friday, October 30. https://www.massanuttenvillage.com/community-happenings-calendar
-- Covenant Amendment Task Force. Thursday, November 19. https://www.massanuttenvillage.com/community-happenings-calendar
+- Seven more covenant sections posted for comment, including assessments. Saturday, October 31. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
 
-Main action: Tell the association what you think of Covenants 1 and 19. Before the task force meets Thu Nov 19, in 20 days. Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. No deadline is posted. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
+Main action: Tell the association what you think of Covenants 1 and 19. Before the task force meets Thu Nov 19, in 19 days. Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. Seven more sections were posted October 31, including Covenant 25 on assessments. No deadline is posted. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
 
 Next 14 days and open deadlines:
 - Rules Committee. Thursday, November 5. https://www.massanuttenvillage.com/community-happenings-calendar
 - Covenant feedback deadline: not announced.
 
 Found in the last 30 days:
+- Seven more covenant sections posted for comment, including assessments. Saturday, October 31. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
 - Covenant task force meeting moved to November 19. Friday, October 30. https://www.massanuttenvillage.com/community-happenings-calendar
 - Covenant rewrite still open for comment, no deadline posted. Friday, October 16. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
 - Firewise meeting held October 13. Tuesday, October 13. https://www.massanuttenvillage.com/community-happenings-calendar
