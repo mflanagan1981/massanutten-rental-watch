@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Saturday, October 31, 2026, 6:52 AM Eastern",
-  "updated_date": "2026-10-31",
+  "updated": "Sunday, November 1, 2026, 6:51 AM Eastern",
+  "updated_date": "2026-11-01",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -33,7 +33,7 @@
         "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
         "link_label": "Contact the Board",
         "due_label": "Work session",
-        "new": true
+        "new": false
       },
       "more_actions": [
         {
@@ -100,7 +100,7 @@
           "title": "Joint work session on short-term rentals (Board of Supervisors and Planning Commission)",
           "detail": "Announced on the November 4 Planning Commission agenda. Time not posted; the Board's regular meeting that day is at 3 PM.",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
-          "new": true
+          "new": false
         },
         {
           "id": "county-pc-2026-12-01",
@@ -120,7 +120,7 @@
           "title": "Board and Planning Commission to hold a joint work session on short-term rentals November 12",
           "detail": "The November 4 Planning Commission agenda lists upcoming joint work sessions with the Board of Supervisors: short-term rentals on November 12 and strategic planning on December 3. No time, materials, or agenda for the session are posted yet. Work sessions usually take no public comment, so writing beforehand is the way to be heard.",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
-          "new": true
+          "new": false
         },
         {
           "id": "county-barn-sup-2026-10-14",
@@ -230,7 +230,7 @@
           "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
           "link_label": "See the association calendar",
           "due_label": "Meeting",
-          "new": true
+          "new": false
         }
       ],
       "coming_up": [
@@ -250,7 +250,7 @@
           "title": "Covenant Amendment Task Force",
           "detail": "Moved here from November 5, where it had shared a meeting with the Rules Committee. Time and place not listed.",
           "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-          "new": true
+          "new": false
         },
         {
           "id": "assoc-board-2026-11-21",
@@ -288,7 +288,7 @@
           "title": "Covenant task force meeting moved to November 19",
           "detail": "The association's calendar now lists November 5 and December 3 as Rules Committee meetings only, and gives the Covenant Amendment Task Force its own meeting on Thursday, November 19. No time or place is listed.",
           "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-          "new": true
+          "new": false
         },
         {
           "id": "assoc-page-unchanged-2026-10-16",
@@ -330,7 +330,7 @@
       "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
       "link_label": "Contact the Board",
       "due_label": "Work session",
-      "new": true
+      "new": false
     },
     {
       "id": "call-comment-covenants",
@@ -368,7 +368,7 @@
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
       "link_label": "See the association calendar",
       "due_label": "Meeting",
-      "new": true
+      "new": false
     },
     {
       "id": "call-county-permit-2026-12-31",
@@ -423,7 +423,7 @@
       "title": "Covenant task force meeting moved to November 19",
       "detail": "The association's calendar now lists November 5 and December 3 as Rules Committee meetings only, and gives the Covenant Amendment Task Force its own meeting on Thursday, November 19. No time or place is listed.",
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": true
+      "new": false
     },
     {
       "id": "county-joint-ws-str-2026-11-12",
@@ -432,7 +432,7 @@
       "title": "Board and Planning Commission to hold a joint work session on short-term rentals November 12",
       "detail": "The November 4 Planning Commission agenda lists upcoming joint work sessions with the Board of Supervisors: short-term rentals on November 12 and strategic planning on December 3. No time, materials, or agenda for the session are posted yet. Work sessions usually take no public comment, so writing beforehand is the way to be heard.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
-      "new": true
+      "new": false
     },
     {
       "id": "county-barn-sup-2026-10-14",
@@ -553,7 +553,7 @@
       "title": "Joint work session on short-term rentals (Board of Supervisors and Planning Commission)",
       "detail": "Announced on the November 4 Planning Commission agenda. Time not posted; the Board's regular meeting that day is at 3 PM.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
-      "new": true
+      "new": false
     },
     {
       "id": "association-taskforce-2026-11-19",
@@ -562,7 +562,7 @@
       "title": "Covenant Amendment Task Force",
       "detail": "Moved here from November 5, where it had shared a meeting with the Rules Committee. Time and place not listed.",
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": true
+      "new": false
     },
     {
       "id": "assoc-board-2026-11-21",
@@ -608,6 +608,15 @@
       "title": "Board of Supervisors",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
       "new": false
+    },
+    {
+      "id": "association-taskforce-2026-12-17",
+      "side": "Association",
+      "date": "2026-12-17",
+      "title": "Covenant Amendment Task Force",
+      "detail": "Second task force meeting on the calendar, after November 19. Time and place not listed.",
+      "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
+      "new": true
     }
   ],
   "deadlines": [
