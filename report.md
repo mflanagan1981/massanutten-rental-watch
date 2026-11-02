@@ -1,12 +1,12 @@
 # Massanutten Rental Watch: daily report
 
-Updated Sunday, November 1, 2026, 6:51 AM Eastern.
+Updated Monday, November 2, 2026, 6:57 AM Eastern.
 
-**1 new since yesterday.**
+**Nothing new since yesterday.**
 
 ## Rockingham County: Work with rental owners, in public
 
-Main action: Before the November 12 work session on short-term rentals, ask the county to include owners. Work session Thu Nov 12, in 11 days. The Board of Supervisors and the Planning Commission will discuss short-term rentals together on November 12. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
+Main action: Before the November 12 work session on short-term rentals, ask the county to include owners. Work session Thu Nov 12, in 10 days. The Board of Supervisors and the Planning Commission will discuss short-term rentals together on November 12. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
 
 Next 14 days and open deadlines:
 - Planning Commission. Wednesday, November 4, 6:00 PM. https://www.rockinghamcountyva.gov/AgendaCenter
@@ -27,10 +27,7 @@ Page: https://mflanagan1981.github.io/massanutten-rental-watch/county.html
 
 ## Massanutten covenants: Owners should shape the covenant rewrite
 
-New:
-- Covenant Amendment Task Force. Thursday, December 17. https://www.massanuttenvillage.com/community-happenings-calendar
-
-Main action: Tell the association what you think of Covenants 1 and 19. Before the task force meets Thu Nov 19, in 18 days. Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. Seven more sections were posted October 31, including Covenant 25 on assessments. No deadline is posted. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
+Main action: Tell the association what you think of Covenants 1 and 19. Before the task force meets Thu Nov 19, in 17 days. Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. Seven more sections were posted October 31, including Covenant 25 on assessments. No deadline is posted. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
 
 Next 14 days and open deadlines:
 - Rules Committee. Thursday, November 5. https://www.massanuttenvillage.com/community-happenings-calendar

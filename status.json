@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Sunday, November 1, 2026, 6:51 AM Eastern",
-  "updated_date": "2026-11-01",
+  "updated": "Monday, November 2, 2026, 6:57 AM Eastern",
+  "updated_date": "2026-11-02",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -212,7 +212,7 @@
         "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
         "link_label": "Open the feedback form",
         "due_label": "Before the task force meets",
-        "new": true
+        "new": false
       },
       "more_actions": [
         {
@@ -279,7 +279,7 @@
           "title": "Seven more covenant sections posted for comment, including assessments",
           "detail": "The proposed changes page was rebuilt with Covenants 3, 9 and 10, 12, 15, 25, 26, and 29 posted for the first time. Covenant 25 would let the association set annual assessments without the original's word \"reasonable\" or its list of purposes. Covenant 9 requires approval to remove any tree over six feet tall or six inches thick, with possible replacement or monetary restitution. Covenant 3 drops the promise that approvals will not be unreasonable. Covenant 15 limits overnight parking of heavy vehicles. Covenant 26 has no text yet. The proposals for Covenants 1, 19, and 28 are unchanged.",
           "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
-          "new": true
+          "new": false
         },
         {
           "id": "assoc-taskforce-moved-2026-11-19",
@@ -351,7 +351,7 @@
       "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
       "link_label": "Open the feedback form",
       "due_label": "Before the task force meets",
-      "new": true
+      "new": false
     },
     {
       "id": "call-attend-taskforce-2026-11-19",
@@ -414,7 +414,7 @@
       "title": "Seven more covenant sections posted for comment, including assessments",
       "detail": "The proposed changes page was rebuilt with Covenants 3, 9 and 10, 12, 15, 25, 26, and 29 posted for the first time. Covenant 25 would let the association set annual assessments without the original's word \"reasonable\" or its list of purposes. Covenant 9 requires approval to remove any tree over six feet tall or six inches thick, with possible replacement or monetary restitution. Covenant 3 drops the promise that approvals will not be unreasonable. Covenant 15 limits overnight parking of heavy vehicles. Covenant 26 has no text yet. The proposals for Covenants 1, 19, and 28 are unchanged.",
       "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
-      "new": true
+      "new": false
     },
     {
       "id": "assoc-taskforce-moved-2026-11-19",
