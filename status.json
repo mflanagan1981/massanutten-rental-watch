@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Monday, November 2, 2026, 6:57 AM Eastern",
-  "updated_date": "2026-11-02",
+  "updated": "Tuesday, November 3, 2026, 6:51 AM Eastern",
+  "updated_date": "2026-11-03",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -20,7 +20,7 @@
         "side": "County",
         "date": "2026-11-12",
         "title": "Before the November 12 work session on short-term rentals, ask the county to include owners",
-        "short": "The Board of Supervisors and the Planning Commission will discuss short-term rentals together on November 12. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing.",
+        "short": "The Board of Supervisors and the Planning Commission meet on short-term rentals Thursday, November 12 at 11 AM. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing. Then come and listen if you can.",
         "detail": "The Board of Supervisors and the Planning Commission will hold a joint work session on short-term rentals on November 12. Owners are asking the county to treat them as stakeholders: meet with them, and put any change to rental rules on a public agenda with time for comment.",
         "steps_label": "What to say",
         "steps": [
@@ -28,7 +28,7 @@
           "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
           "Ask for three things: meet with rental owners before any changes are drafted, put any change to rental rules on a public hearing agenda, and allow public comment before a vote.",
           "Keep it short and courteous, in your own words.",
-          "Work sessions usually take no public comment, so send it before November 12. The session's time and materials are not posted yet; this page will update when they are."
+          "The session is Thursday, November 12 at 11 AM in the Community Development Meeting Room, Entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. It is open to anyone. Work sessions usually take no public comment, so send your email before, and come and sit in if you can: a room with owners in it is noticed."
         ],
         "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
         "link_label": "Contact the Board",
@@ -97,9 +97,10 @@
           "id": "county-joint-ws-2026-11-12",
           "side": "County",
           "date": "2026-11-12",
+          "time": "11:00 AM",
           "title": "Joint work session on short-term rentals (Board of Supervisors and Planning Commission)",
-          "detail": "Announced on the November 4 Planning Commission agenda. Time not posted; the Board's regular meeting that day is at 3 PM.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
+          "detail": "Community Development Meeting Room, Entrance C, 20 East Gay Street, Harrisonburg. Open to the public; work sessions usually take no public comment. Notice posted November 2; no materials posted yet.",
+          "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=736",
           "new": false
         },
         {
@@ -113,6 +114,15 @@
         }
       ],
       "findings": [
+        {
+          "id": "county-joint-ws-notice-2026-11-02",
+          "side": "County",
+          "date": "2026-11-02",
+          "title": "Short-term rental work session set for November 12 at 11 AM",
+          "detail": "The county's public notice says the Board of Supervisors and the Planning Commission will meet jointly to discuss short-term rentals on Thursday, November 12 at 11 AM in the Community Development Meeting Room, Entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. No agenda or materials are posted yet.",
+          "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=736",
+          "new": true
+        },
         {
           "id": "county-joint-ws-str-2026-11-12",
           "side": "County",
@@ -317,7 +327,7 @@
       "side": "County",
       "date": "2026-11-12",
       "title": "Before the November 12 work session on short-term rentals, ask the county to include owners",
-      "short": "The Board of Supervisors and the Planning Commission will discuss short-term rentals together on November 12. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing.",
+      "short": "The Board of Supervisors and the Planning Commission meet on short-term rentals Thursday, November 12 at 11 AM. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing. Then come and listen if you can.",
       "detail": "The Board of Supervisors and the Planning Commission will hold a joint work session on short-term rentals on November 12. Owners are asking the county to treat them as stakeholders: meet with them, and put any change to rental rules on a public agenda with time for comment.",
       "steps_label": "What to say",
       "steps": [
@@ -325,7 +335,7 @@
         "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
         "Ask for three things: meet with rental owners before any changes are drafted, put any change to rental rules on a public hearing agenda, and allow public comment before a vote.",
         "Keep it short and courteous, in your own words.",
-        "Work sessions usually take no public comment, so send it before November 12. The session's time and materials are not posted yet; this page will update when they are."
+        "The session is Thursday, November 12 at 11 AM in the Community Development Meeting Room, Entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. It is open to anyone. Work sessions usually take no public comment, so send your email before, and come and sit in if you can: a room with owners in it is noticed."
       ],
       "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
       "link_label": "Contact the Board",
@@ -407,6 +417,15 @@
     }
   ],
   "key_findings_last_30_days": [
+    {
+      "id": "county-joint-ws-notice-2026-11-02",
+      "side": "County",
+      "date": "2026-11-02",
+      "title": "Short-term rental work session set for November 12 at 11 AM",
+      "detail": "The county's public notice says the Board of Supervisors and the Planning Commission will meet jointly to discuss short-term rentals on Thursday, November 12 at 11 AM in the Community Development Meeting Room, Entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. No agenda or materials are posted yet.",
+      "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=736",
+      "new": true
+    },
     {
       "id": "assoc-new-sections-2026-10-31",
       "side": "Association",
@@ -550,9 +569,10 @@
       "id": "county-joint-ws-2026-11-12",
       "side": "County",
       "date": "2026-11-12",
+      "time": "11:00 AM",
       "title": "Joint work session on short-term rentals (Board of Supervisors and Planning Commission)",
-      "detail": "Announced on the November 4 Planning Commission agenda. Time not posted; the Board's regular meeting that day is at 3 PM.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
+      "detail": "Community Development Meeting Room, Entrance C, 20 East Gay Street, Harrisonburg. Open to the public; work sessions usually take no public comment. Notice posted November 2; no materials posted yet.",
+      "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=736",
       "new": false
     },
     {
@@ -616,7 +636,7 @@
       "title": "Covenant Amendment Task Force",
       "detail": "Second task force meeting on the calendar, after November 19. Time and place not listed.",
       "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": true
+      "new": false
     }
   ],
   "deadlines": [
