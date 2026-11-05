@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Wednesday, November 4, 2026, 6:50 AM Eastern",
-  "updated_date": "2026-11-04",
+  "updated": "Thursday, November 5, 2026, 6:53 AM Eastern",
+  "updated_date": "2026-11-05",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -47,7 +47,7 @@
           "steps": [
             "Download the application from the county's Short-Term Rentals page.",
             "The form allows up to two guests per bedroom, plus four on public sewer.",
-            "Attach a site layout, a fire safety and evacuation plan with a diagram for each bedroom, proof of short-term rental liability insurance, and the fee.",
+            "Attach a site layout, a fire safety and evacuation plan with a diagram for each bedroom, proof of short-term rental liability insurance, and the $200 application fee.",
             "The affidavit of compliance on that page is for renewing next year, not for this application.",
             "Apply early in case the county asks for more information."
           ],
@@ -73,16 +73,6 @@
         }
       ],
       "coming_up": [
-        {
-          "id": "county-pc-2026-11-04",
-          "side": "County",
-          "date": "2026-11-04",
-          "time": "6:00 PM",
-          "title": "Planning Commission",
-          "detail": "Moved to Wednesday this month.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-          "new": false
-        },
         {
           "id": "county-bos-2026-11-12",
           "side": "County",
@@ -111,9 +101,27 @@
           "title": "Planning Commission",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
           "new": false
+        },
+        {
+          "id": "county-bos-2026-12-09",
+          "side": "County",
+          "date": "2026-12-09",
+          "time": "3:00 PM",
+          "title": "Board of Supervisors",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
+          "new": false
         }
       ],
       "findings": [
+        {
+          "id": "county-str-fees-2026-11-03",
+          "side": "County",
+          "date": "2026-11-03",
+          "title": "County fee schedule: $200 rental permit, $250 to appeal",
+          "detail": "The county's amended fiscal 2027 fee schedule, posted November 3, lists a $200 fee for a short-term rental permit application or renewal and a $250 fee to appeal a violation finding, a revocation, or a refused permit, both effective July 1, 2026.",
+          "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23475",
+          "new": true
+        },
         {
           "id": "county-joint-ws-notice-2026-11-02",
           "side": "County",
@@ -121,7 +129,7 @@
           "title": "Short-term rental work session set for November 12 at 11 AM",
           "detail": "The county's public notice says the Board of Supervisors and the Planning Commission will meet jointly to discuss short-term rentals on Thursday, November 12 at 11 AM in the Community Development Meeting Room, Entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. No agenda or materials are posted yet.",
           "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=736",
-          "new": true
+          "new": false
         },
         {
           "id": "county-joint-ws-str-2026-11-12",
@@ -391,7 +399,7 @@
       "steps": [
         "Download the application from the county's Short-Term Rentals page.",
         "The form allows up to two guests per bedroom, plus four on public sewer.",
-        "Attach a site layout, a fire safety and evacuation plan with a diagram for each bedroom, proof of short-term rental liability insurance, and the fee.",
+        "Attach a site layout, a fire safety and evacuation plan with a diagram for each bedroom, proof of short-term rental liability insurance, and the $200 application fee.",
         "The affidavit of compliance on that page is for renewing next year, not for this application.",
         "Apply early in case the county asks for more information."
       ],
@@ -418,13 +426,22 @@
   ],
   "key_findings_last_30_days": [
     {
+      "id": "county-str-fees-2026-11-03",
+      "side": "County",
+      "date": "2026-11-03",
+      "title": "County fee schedule: $200 rental permit, $250 to appeal",
+      "detail": "The county's amended fiscal 2027 fee schedule, posted November 3, lists a $200 fee for a short-term rental permit application or renewal and a $250 fee to appeal a violation finding, a revocation, or a refused permit, both effective July 1, 2026.",
+      "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23475",
+      "new": true
+    },
+    {
       "id": "county-joint-ws-notice-2026-11-02",
       "side": "County",
       "date": "2026-11-02",
       "title": "Short-term rental work session set for November 12 at 11 AM",
       "detail": "The county's public notice says the Board of Supervisors and the Planning Commission will meet jointly to discuss short-term rentals on Thursday, November 12 at 11 AM in the Community Development Meeting Room, Entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. No agenda or materials are posted yet.",
       "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=736",
-      "new": true
+      "new": false
     },
     {
       "id": "assoc-new-sections-2026-10-31",
@@ -536,16 +553,6 @@
     }
   ],
   "upcoming_meetings": [
-    {
-      "id": "county-pc-2026-11-04",
-      "side": "County",
-      "date": "2026-11-04",
-      "time": "6:00 PM",
-      "title": "Planning Commission",
-      "detail": "Moved to Wednesday this month.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-      "new": false
-    },
     {
       "id": "assoc-catforce-2026-11-05",
       "side": "Association",
