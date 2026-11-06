@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Thursday, November 5, 2026, 6:53 AM Eastern",
-  "updated_date": "2026-11-05",
+  "updated": "Friday, November 6, 2026, 6:50 AM Eastern",
+  "updated_date": "2026-11-06",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -253,15 +253,6 @@
       ],
       "coming_up": [
         {
-          "id": "assoc-catforce-2026-11-05",
-          "side": "Association",
-          "date": "2026-11-05",
-          "title": "Rules Committee",
-          "detail": "The calendar no longer lists the covenant task force for this date; it now meets separately on November 19.",
-          "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-          "new": false
-        },
-        {
           "id": "association-taskforce-2026-11-19",
           "side": "Association",
           "date": "2026-11-19",
@@ -285,6 +276,15 @@
           "date": "2026-12-03",
           "title": "Rules Committee",
           "detail": "The calendar no longer lists the covenant task force for this date.",
+          "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
+          "new": false
+        },
+        {
+          "id": "assoc-firewise-2026-12-08",
+          "side": "Association",
+          "date": "2026-12-08",
+          "title": "Firewise meeting",
+          "detail": "Wildfire safety group; relevant to Covenant 1.",
           "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
           "new": false
         }
@@ -553,15 +553,6 @@
     }
   ],
   "upcoming_meetings": [
-    {
-      "id": "assoc-catforce-2026-11-05",
-      "side": "Association",
-      "date": "2026-11-05",
-      "title": "Rules Committee",
-      "detail": "The calendar no longer lists the covenant task force for this date; it now meets separately on November 19.",
-      "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": false
-    },
     {
       "id": "county-bos-2026-11-12",
       "side": "County",
