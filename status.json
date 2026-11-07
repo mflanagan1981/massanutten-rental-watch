@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Friday, November 6, 2026, 6:50 AM Eastern",
-  "updated_date": "2026-11-06",
+  "updated": "Saturday, November 7, 2026, 6:52 AM Eastern",
+  "updated_date": "2026-11-07",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -16,45 +16,45 @@
       "page": "https://mflanagan1981.github.io/massanutten-rental-watch/county.html",
       "embed": "https://mflanagan1981.github.io/massanutten-rental-watch/embed-county.html",
       "main_action": {
-        "id": "call-county-stakeholders",
+        "id": "call-county-permit-2026-12-31",
         "side": "County",
-        "date": "2026-11-12",
-        "title": "Before the November 12 work session on short-term rentals, ask the county to include owners",
-        "short": "The Board of Supervisors and the Planning Commission meet on short-term rentals Thursday, November 12 at 11 AM. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing. Then come and listen if you can.",
-        "detail": "The Board of Supervisors and the Planning Commission will hold a joint work session on short-term rentals on November 12. Owners are asking the county to treat them as stakeholders: meet with them, and put any change to rental rules on a public agenda with time for comment.",
-        "steps_label": "What to say",
+        "date": "2026-12-31",
+        "title": "Apply for your county rental permit now: it may decide whether you can keep hosting more than 10 guests",
+        "short": "Draft county zoning rules would treat any rental over 10 guests as a \"recreational lodge\" needing a special use permit and commercial building standards. Homes that already hold the county permit could keep operating. The deadline is December 31, and the county lists the deadline itself as a topic for November 12.",
+        "detail": "Every short-term rental already operating must apply for the county permit by December 31, 2026. Under draft zoning rules presented for the November 12 work session, homes that obtained the permit could continue, while homes without one by the deadline would need a special use permit and commercial building upgrades to host more than 10 guests.",
+        "steps_label": "What you need",
         "steps": [
-          "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link. Write to all five, and ask the Community Development office, (540) 564-3030, to pass your note to the Planning Commission.",
-          "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
-          "Ask for three things: meet with rental owners before any changes are drafted, put any change to rental rules on a public hearing agenda, and allow public comment before a vote.",
-          "Keep it short and courteous, in your own words.",
-          "The session is Thursday, November 12 at 11 AM in the Community Development Meeting Room, Entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. It is open to anyone. Work sessions usually take no public comment, so send your email before, and come and sit in if you can: a room with owners in it is noticed."
+          "Download the application from the county's Short-Term Rentals page.",
+          "The form allows up to two guests per bedroom, plus four on public sewer. Under the draft, what your permit approves is what continues, so enter the occupancy you actually need, up to that limit.",
+          "Attach a site layout, a fire safety and evacuation plan with a diagram for each bedroom, proof of short-term rental liability insurance, and the $200 application fee.",
+          "The affidavit of compliance on that page is for renewing next year, not for this application.",
+          "Apply now rather than in December: the deadline is on the November 12 discussion list and could change."
         ],
-        "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
-        "link_label": "Contact the Board",
-        "due_label": "Work session",
-        "new": false
+        "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
+        "link_label": "County short-term rental page",
+        "due_label": "Deadline",
+        "new": true
       },
       "more_actions": [
         {
-          "id": "call-county-permit-2026-12-31",
+          "id": "call-county-stakeholders",
           "side": "County",
-          "date": "2026-12-31",
-          "title": "Existing short-term rentals: apply for your county permit by December 31",
-          "short": "Every short-term rental already operating must apply by December 31. The form asks for your bedrooms and the most guests you plan to host.",
-          "detail": "Under the ordinance adopted December 10, 2025, short-term rentals already operating in Rockingham County must apply for a county permit by December 31, 2026.",
-          "steps_label": "What you need",
+          "date": "2026-11-12",
+          "title": "Before November 12, ask the county to hear owners and hold public hearings on the new rental rules",
+          "short": "On November 12 the Board and Planning Commission will discuss draft zoning rules for short-term rentals that came out of a committee that met in June and September. Email them first: ask that owners be heard before the draft goes further and that any change go to a public hearing.",
+          "detail": "The Board of Supervisors and the Planning Commission will discuss draft zoning amendments for short-term rentals at a joint work session on November 12. The draft came from a Land Use Committee that met June 15 and September 10, 2026. Owners are asking the county to treat them as stakeholders and to decide rental rules in public.",
+          "steps_label": "What to say",
           "steps": [
-            "Download the application from the county's Short-Term Rentals page.",
-            "The form allows up to two guests per bedroom, plus four on public sewer.",
-            "Attach a site layout, a fire safety and evacuation plan with a diagram for each bedroom, proof of short-term rental liability insurance, and the $200 application fee.",
-            "The affidavit of compliance on that page is for renewing next year, not for this application.",
-            "Apply early in case the county asks for more information."
+            "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link. Write to all five, and ask the Community Development office, (540) 564-3030, to pass your note to the Planning Commission.",
+            "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
+            "Ask for four things: meet with rental owners before the draft goes further, post the Land Use Committee's materials and minutes, give owners fair notice of any change to the December 31 permit deadline, and hold public hearings before any vote.",
+            "Keep it short and courteous, in your own words.",
+            "The session is Thursday, November 12 at 11 AM in the Community Development Meeting Room, Entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. It is open to anyone. Work sessions usually take no public comment, so send your email before, and come and sit in if you can: a room with owners in it is noticed."
           ],
-          "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
-          "link_label": "County short-term rental page",
-          "due_label": "Deadline",
-          "new": false
+          "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
+          "link_label": "Contact the Board",
+          "due_label": "Work session",
+          "new": true
         },
         {
           "id": "call-county-alerts",
@@ -89,8 +89,8 @@
           "date": "2026-11-12",
           "time": "11:00 AM",
           "title": "Joint work session on short-term rentals (Board of Supervisors and Planning Commission)",
-          "detail": "Community Development Meeting Room, Entrance C, 20 East Gay Street, Harrisonburg. Open to the public; work sessions usually take no public comment. Notice posted November 2; no materials posted yet.",
-          "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=736",
+          "detail": "Community Development Meeting Room, Entrance C, 20 East Gay Street, Harrisonburg. Open to the public; work sessions usually take no public comment. The packet with the draft zoning rules is posted.",
+          "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
           "new": false
         },
         {
@@ -114,13 +114,40 @@
       ],
       "findings": [
         {
+          "id": "county-str-zoning-draft-2026-11-06",
+          "side": "County",
+          "date": "2026-11-06",
+          "title": "Draft county zoning rules: over 10 guests would need a special permit and commercial construction",
+          "detail": "The packet for the November 12 work session proposes adding short-term rentals to the zoning ordinance. A rental with more than 10 guests becomes a \"recreational lodge,\" allowed only by special use permit in the A-1, A-2, RV, RR-1, and R-4 districts and built to commercial code. Homes that already hold the county permit may continue; homes without one by the deadline would need the special use permit and commercial upgrades to host more than 10. Rentals of 10 or fewer stay allowed by right in A-1, A-2, RV, and R-4 (Massanutten's covenants describe its lots as zoned R-4), need a special use permit in RR-1, and are barred in R-1, R-2, R-3, and R-5 neighborhoods unless the owner lives there. A rental may include only one dwelling unit, so no renting a second living space in the same house. Owner-occupied homes can rent without limit while the owner is present and up to 90 days a year when away. Septic homes would be limited to two guests per bedroom unless the health department approves more. The permit deadline is listed as a topic for discussion.",
+          "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
+          "new": true
+        },
+        {
+          "id": "county-land-use-committee-2026",
+          "side": "County",
+          "date": "2026-11-06",
+          "title": "Draft came from a Land Use Committee that met in June and September",
+          "detail": "The work session packet says that after public input and a local court case, the Board formed a Land Use Committee to recommend zoning approaches for short-term rentals, and that it met June 15 and September 10, 2026. Its direction: define short-term rentals, address them in residential neighborhoods, address owner-occupied rental periods, and address rentals over ten guests. A search of the county website finds no notice, agenda, or minutes for those meetings.",
+          "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
+          "new": true
+        },
+        {
+          "id": "county-str-permits-84-2026-11-05",
+          "side": "County",
+          "date": "2026-11-05",
+          "title": "84 county rental permits approved, 21 in review",
+          "detail": "As of November 5, the county had approved 84 short-term rental permits and had 21 more in review, according to the work session packet. Applications opened in June 2026.",
+          "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
+          "new": true
+        },
+        {
           "id": "county-str-fees-2026-11-03",
           "side": "County",
           "date": "2026-11-03",
           "title": "County fee schedule: $200 rental permit, $250 to appeal",
           "detail": "The county's amended fiscal 2027 fee schedule, posted November 3, lists a $200 fee for a short-term rental permit application or renewal and a $250 fee to appeal a violation finding, a revocation, or a refused permit, both effective July 1, 2026.",
           "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23475",
-          "new": true
+          "new": false
         },
         {
           "id": "county-joint-ws-notice-2026-11-02",
@@ -331,24 +358,44 @@
   },
   "take_action": [
     {
+      "id": "call-county-permit-2026-12-31",
+      "side": "County",
+      "date": "2026-12-31",
+      "title": "Apply for your county rental permit now: it may decide whether you can keep hosting more than 10 guests",
+      "short": "Draft county zoning rules would treat any rental over 10 guests as a \"recreational lodge\" needing a special use permit and commercial building standards. Homes that already hold the county permit could keep operating. The deadline is December 31, and the county lists the deadline itself as a topic for November 12.",
+      "detail": "Every short-term rental already operating must apply for the county permit by December 31, 2026. Under draft zoning rules presented for the November 12 work session, homes that obtained the permit could continue, while homes without one by the deadline would need a special use permit and commercial building upgrades to host more than 10 guests.",
+      "steps_label": "What you need",
+      "steps": [
+        "Download the application from the county's Short-Term Rentals page.",
+        "The form allows up to two guests per bedroom, plus four on public sewer. Under the draft, what your permit approves is what continues, so enter the occupancy you actually need, up to that limit.",
+        "Attach a site layout, a fire safety and evacuation plan with a diagram for each bedroom, proof of short-term rental liability insurance, and the $200 application fee.",
+        "The affidavit of compliance on that page is for renewing next year, not for this application.",
+        "Apply now rather than in December: the deadline is on the November 12 discussion list and could change."
+      ],
+      "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
+      "link_label": "County short-term rental page",
+      "due_label": "Deadline",
+      "new": true
+    },
+    {
       "id": "call-county-stakeholders",
       "side": "County",
       "date": "2026-11-12",
-      "title": "Before the November 12 work session on short-term rentals, ask the county to include owners",
-      "short": "The Board of Supervisors and the Planning Commission meet on short-term rentals Thursday, November 12 at 11 AM. Email them first: ask that owners be treated as stakeholders and that any rule changes go to a public hearing. Then come and listen if you can.",
-      "detail": "The Board of Supervisors and the Planning Commission will hold a joint work session on short-term rentals on November 12. Owners are asking the county to treat them as stakeholders: meet with them, and put any change to rental rules on a public agenda with time for comment.",
+      "title": "Before November 12, ask the county to hear owners and hold public hearings on the new rental rules",
+      "short": "On November 12 the Board and Planning Commission will discuss draft zoning rules for short-term rentals that came out of a committee that met in June and September. Email them first: ask that owners be heard before the draft goes further and that any change go to a public hearing.",
+      "detail": "The Board of Supervisors and the Planning Commission will discuss draft zoning amendments for short-term rentals at a joint work session on November 12. The draft came from a Land Use Committee that met June 15 and September 10, 2026. Owners are asking the county to treat them as stakeholders and to decide rental rules in public.",
       "steps_label": "What to say",
       "steps": [
         "Massanutten is in District 5, represented by Supervisor Joel Hensley. The Board page lists all five supervisors and has an Email Us link. Write to all five, and ask the Community Development office, (540) 564-3030, to pass your note to the Planning Commission.",
         "Say who you are: a Massanutten owner who rents short term, and whether you live here.",
-        "Ask for three things: meet with rental owners before any changes are drafted, put any change to rental rules on a public hearing agenda, and allow public comment before a vote.",
+        "Ask for four things: meet with rental owners before the draft goes further, post the Land Use Committee's materials and minutes, give owners fair notice of any change to the December 31 permit deadline, and hold public hearings before any vote.",
         "Keep it short and courteous, in your own words.",
         "The session is Thursday, November 12 at 11 AM in the Community Development Meeting Room, Entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. It is open to anyone. Work sessions usually take no public comment, so send your email before, and come and sit in if you can: a room with owners in it is noticed."
       ],
       "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
       "link_label": "Contact the Board",
       "due_label": "Work session",
-      "new": false
+      "new": true
     },
     {
       "id": "call-comment-covenants",
@@ -389,26 +436,6 @@
       "new": false
     },
     {
-      "id": "call-county-permit-2026-12-31",
-      "side": "County",
-      "date": "2026-12-31",
-      "title": "Existing short-term rentals: apply for your county permit by December 31",
-      "short": "Every short-term rental already operating must apply by December 31. The form asks for your bedrooms and the most guests you plan to host.",
-      "detail": "Under the ordinance adopted December 10, 2025, short-term rentals already operating in Rockingham County must apply for a county permit by December 31, 2026.",
-      "steps_label": "What you need",
-      "steps": [
-        "Download the application from the county's Short-Term Rentals page.",
-        "The form allows up to two guests per bedroom, plus four on public sewer.",
-        "Attach a site layout, a fire safety and evacuation plan with a diagram for each bedroom, proof of short-term rental liability insurance, and the $200 application fee.",
-        "The affidavit of compliance on that page is for renewing next year, not for this application.",
-        "Apply early in case the county asks for more information."
-      ],
-      "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
-      "link_label": "County short-term rental page",
-      "due_label": "Deadline",
-      "new": false
-    },
-    {
       "id": "call-county-alerts",
       "side": "County",
       "title": "Get county agendas the moment they are posted",
@@ -426,13 +453,40 @@
   ],
   "key_findings_last_30_days": [
     {
+      "id": "county-str-zoning-draft-2026-11-06",
+      "side": "County",
+      "date": "2026-11-06",
+      "title": "Draft county zoning rules: over 10 guests would need a special permit and commercial construction",
+      "detail": "The packet for the November 12 work session proposes adding short-term rentals to the zoning ordinance. A rental with more than 10 guests becomes a \"recreational lodge,\" allowed only by special use permit in the A-1, A-2, RV, RR-1, and R-4 districts and built to commercial code. Homes that already hold the county permit may continue; homes without one by the deadline would need the special use permit and commercial upgrades to host more than 10. Rentals of 10 or fewer stay allowed by right in A-1, A-2, RV, and R-4 (Massanutten's covenants describe its lots as zoned R-4), need a special use permit in RR-1, and are barred in R-1, R-2, R-3, and R-5 neighborhoods unless the owner lives there. A rental may include only one dwelling unit, so no renting a second living space in the same house. Owner-occupied homes can rent without limit while the owner is present and up to 90 days a year when away. Septic homes would be limited to two guests per bedroom unless the health department approves more. The permit deadline is listed as a topic for discussion.",
+      "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
+      "new": true
+    },
+    {
+      "id": "county-land-use-committee-2026",
+      "side": "County",
+      "date": "2026-11-06",
+      "title": "Draft came from a Land Use Committee that met in June and September",
+      "detail": "The work session packet says that after public input and a local court case, the Board formed a Land Use Committee to recommend zoning approaches for short-term rentals, and that it met June 15 and September 10, 2026. Its direction: define short-term rentals, address them in residential neighborhoods, address owner-occupied rental periods, and address rentals over ten guests. A search of the county website finds no notice, agenda, or minutes for those meetings.",
+      "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
+      "new": true
+    },
+    {
+      "id": "county-str-permits-84-2026-11-05",
+      "side": "County",
+      "date": "2026-11-05",
+      "title": "84 county rental permits approved, 21 in review",
+      "detail": "As of November 5, the county had approved 84 short-term rental permits and had 21 more in review, according to the work session packet. Applications opened in June 2026.",
+      "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
+      "new": true
+    },
+    {
       "id": "county-str-fees-2026-11-03",
       "side": "County",
       "date": "2026-11-03",
       "title": "County fee schedule: $200 rental permit, $250 to appeal",
       "detail": "The county's amended fiscal 2027 fee schedule, posted November 3, lists a $200 fee for a short-term rental permit application or renewal and a $250 fee to appeal a violation finding, a revocation, or a refused permit, both effective July 1, 2026.",
       "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23475",
-      "new": true
+      "new": false
     },
     {
       "id": "county-joint-ws-notice-2026-11-02",
@@ -569,8 +623,8 @@
       "date": "2026-11-12",
       "time": "11:00 AM",
       "title": "Joint work session on short-term rentals (Board of Supervisors and Planning Commission)",
-      "detail": "Community Development Meeting Room, Entrance C, 20 East Gay Street, Harrisonburg. Open to the public; work sessions usually take no public comment. Notice posted November 2; no materials posted yet.",
-      "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=736",
+      "detail": "Community Development Meeting Room, Entrance C, 20 East Gay Street, Harrisonburg. Open to the public; work sessions usually take no public comment. The packet with the draft zoning rules is posted.",
+      "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
       "new": false
     },
     {
