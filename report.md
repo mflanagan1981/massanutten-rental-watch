@@ -1,18 +1,12 @@
 # Massanutten Rental Watch: daily report
 
-Updated Saturday, November 7, 2026, 6:52 AM Eastern.
+Updated Sunday, November 8, 2026, 7:08 AM Eastern.
 
-**4 new since yesterday.**
+**Nothing new since yesterday.**
 
 ## Rockingham County: Work with rental owners, in public
 
-New:
-- Before November 12, ask the county to hear owners and hold public hearings on the new rental rules. Thursday, November 12. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
-- Draft county zoning rules: over 10 guests would need a special permit and commercial construction. Friday, November 6. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
-- Draft came from a Land Use Committee that met in June and September. Friday, November 6. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
-- 84 county rental permits approved, 21 in review. Thursday, November 5. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
-
-Main action: Apply for your county rental permit now: it may decide whether you can keep hosting more than 10 guests. Deadline Thu Dec 31, in 54 days. Draft county zoning rules would treat any rental over 10 guests as a "recreational lodge" needing a special use permit and commercial building standards. Homes that already hold the county permit could keep operating. The deadline is December 31, and the county lists the deadline itself as a topic for November 12. https://www.rockinghamcountyva.gov/972/Short-Term-Rentals
+Main action: Apply for your county rental permit now: it may decide whether you can keep hosting more than 10 guests. Deadline Thu Dec 31, in 53 days. Draft county zoning rules would treat any rental over 10 guests as a "recreational lodge" needing a special use permit and commercial building standards. Homes that already hold the county permit could keep operating. The deadline is December 31, and the county lists the deadline itself as a topic for November 12. https://www.rockinghamcountyva.gov/972/Short-Term-Rentals
 
 Next 14 days and open deadlines:
 - Board of Supervisors. Thursday, November 12, 3:00 PM. https://www.rockinghamcountyva.gov/AgendaCenter
@@ -37,7 +31,7 @@ Page: https://mflanagan1981.github.io/massanutten-rental-watch/county.html
 
 ## Massanutten covenants: Owners should shape the covenant rewrite
 
-Main action: Tell the association what you think of Covenants 1 and 19. Before the task force meets Thu Nov 19, in 12 days. Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. Seven more sections were posted October 31, including Covenant 25 on assessments. No deadline is posted. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
+Main action: Tell the association what you think of Covenants 1 and 19. Before the task force meets Thu Nov 19, in 11 days. Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. Seven more sections were posted October 31, including Covenant 25 on assessments. No deadline is posted. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
 
 Next 14 days and open deadlines:
 - Covenant Amendment Task Force. Thursday, November 19. https://www.massanuttenvillage.com/community-happenings-calendar
