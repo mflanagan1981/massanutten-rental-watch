@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Sunday, November 8, 2026, 7:08 AM Eastern",
-  "updated_date": "2026-11-08",
+  "updated": "Monday, November 9, 2026, 6:53 AM Eastern",
+  "updated_date": "2026-11-09",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -33,7 +33,7 @@
         "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
         "link_label": "County short-term rental page",
         "due_label": "Deadline",
-        "new": true
+        "new": false
       },
       "more_actions": [
         {
@@ -54,7 +54,7 @@
           "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
           "link_label": "Contact the Board",
           "due_label": "Work session",
-          "new": true
+          "new": false
         },
         {
           "id": "call-county-alerts",
@@ -120,7 +120,7 @@
           "title": "Draft county zoning rules: over 10 guests would need a special permit and commercial construction",
           "detail": "The packet for the November 12 work session proposes adding short-term rentals to the zoning ordinance. A rental with more than 10 guests becomes a \"recreational lodge,\" allowed only by special use permit in the A-1, A-2, RV, RR-1, and R-4 districts and built to commercial code. Homes that already hold the county permit may continue; homes without one by the deadline would need the special use permit and commercial upgrades to host more than 10. Rentals of 10 or fewer stay allowed by right in A-1, A-2, RV, and R-4 (Massanutten's covenants describe its lots as zoned R-4), need a special use permit in RR-1, and are barred in R-1, R-2, R-3, and R-5 neighborhoods unless the owner lives there. A rental may include only one dwelling unit, so no renting a second living space in the same house. Owner-occupied homes can rent without limit while the owner is present and up to 90 days a year when away. Septic homes would be limited to two guests per bedroom unless the health department approves more. The permit deadline is listed as a topic for discussion.",
           "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-          "new": true
+          "new": false
         },
         {
           "id": "county-land-use-committee-2026",
@@ -129,7 +129,7 @@
           "title": "Draft came from a Land Use Committee that met in June and September",
           "detail": "The work session packet says that after public input and a local court case, the Board formed a Land Use Committee to recommend zoning approaches for short-term rentals, and that it met June 15 and September 10, 2026. Its direction: define short-term rentals, address them in residential neighborhoods, address owner-occupied rental periods, and address rentals over ten guests. A search of the county website finds no notice, agenda, or minutes for those meetings.",
           "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-          "new": true
+          "new": false
         },
         {
           "id": "county-str-permits-84-2026-11-05",
@@ -138,7 +138,7 @@
           "title": "84 county rental permits approved, 21 in review",
           "detail": "As of November 5, the county had approved 84 short-term rental permits and had 21 more in review, according to the work session packet. Applications opened in June 2026.",
           "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-          "new": true
+          "new": false
         },
         {
           "id": "county-str-fees-2026-11-03",
@@ -375,7 +375,7 @@
       "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
       "link_label": "County short-term rental page",
       "due_label": "Deadline",
-      "new": true
+      "new": false
     },
     {
       "id": "call-county-stakeholders",
@@ -395,7 +395,7 @@
       "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
       "link_label": "Contact the Board",
       "due_label": "Work session",
-      "new": true
+      "new": false
     },
     {
       "id": "call-comment-covenants",
@@ -459,7 +459,7 @@
       "title": "Draft county zoning rules: over 10 guests would need a special permit and commercial construction",
       "detail": "The packet for the November 12 work session proposes adding short-term rentals to the zoning ordinance. A rental with more than 10 guests becomes a \"recreational lodge,\" allowed only by special use permit in the A-1, A-2, RV, RR-1, and R-4 districts and built to commercial code. Homes that already hold the county permit may continue; homes without one by the deadline would need the special use permit and commercial upgrades to host more than 10. Rentals of 10 or fewer stay allowed by right in A-1, A-2, RV, and R-4 (Massanutten's covenants describe its lots as zoned R-4), need a special use permit in RR-1, and are barred in R-1, R-2, R-3, and R-5 neighborhoods unless the owner lives there. A rental may include only one dwelling unit, so no renting a second living space in the same house. Owner-occupied homes can rent without limit while the owner is present and up to 90 days a year when away. Septic homes would be limited to two guests per bedroom unless the health department approves more. The permit deadline is listed as a topic for discussion.",
       "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-      "new": true
+      "new": false
     },
     {
       "id": "county-land-use-committee-2026",
@@ -468,7 +468,7 @@
       "title": "Draft came from a Land Use Committee that met in June and September",
       "detail": "The work session packet says that after public input and a local court case, the Board formed a Land Use Committee to recommend zoning approaches for short-term rentals, and that it met June 15 and September 10, 2026. Its direction: define short-term rentals, address them in residential neighborhoods, address owner-occupied rental periods, and address rentals over ten guests. A search of the county website finds no notice, agenda, or minutes for those meetings.",
       "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-      "new": true
+      "new": false
     },
     {
       "id": "county-str-permits-84-2026-11-05",
@@ -477,7 +477,7 @@
       "title": "84 county rental permits approved, 21 in review",
       "detail": "As of November 5, the county had approved 84 short-term rental permits and had 21 more in review, according to the work session packet. Applications opened in June 2026.",
       "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-      "new": true
+      "new": false
     },
     {
       "id": "county-str-fees-2026-11-03",
