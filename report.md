@@ -1,18 +1,22 @@
 # Massanutten Rental Watch: daily report
 
-Updated Thursday, November 12, 2026, 6:52 AM Eastern.
+Updated Thursday, November 12, 2026, 9:26 PM Eastern.
 
 **Nothing new since yesterday.**
 
 ## Rockingham County: Work with rental owners, in public
 
-Main action: Apply for your county rental permit now: it may decide whether you can keep hosting more than 10 guests. Deadline Thu Dec 31, in 49 days. Draft county zoning rules would treat any rental over 10 guests as a "recreational lodge" needing a special use permit and commercial building standards. Homes that already hold the county permit could keep operating. The deadline is December 31, and the county lists the deadline itself as a topic for November 12. https://www.rockinghamcountyva.gov/972/Short-Term-Rentals
+Main action: Apply for your county rental permit by December 31: a complete application is what counts. Deadline Thu Dec 31, in 49 days. At the November 12 work session, staff said rentals that apply by the deadline would keep operating under the new zoning rules. The deadline is still December 31. A possible extension to April 1 goes to the Board on December 9, so treat December 31 as real. https://www.rockinghamcountyva.gov/972/Short-Term-Rentals
 
 Next 14 days and open deadlines:
 - Board of Supervisors. Thursday, November 12, 3:00 PM. https://www.rockinghamcountyva.gov/AgendaCenter
 - Joint work session on short-term rentals (Board of Supervisors and Planning Commission). Thursday, November 12, 11:00 AM. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
 
 Found in the last 30 days:
+- Work session: no decisions; the Board returns to the zoning draft December 1. Thursday, November 12. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
+- Staff: rentals permitted by the deadline would keep operating under the new zoning. Thursday, November 12. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
+- Draft zoning: new rentals by right only in A-1, A-2, RV and R-4; Massanutten stays by right. Thursday, November 12. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
+- Permit deadline stays December 31 for now; April 1 extension to be considered December 9. Thursday, November 12. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
 - Draft county zoning rules: over 10 guests would need a special permit and commercial construction. Friday, November 6. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
 - Draft came from a Land Use Committee that met in June and September. Friday, November 6. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
 - 84 county rental permits approved, 21 in review. Thursday, November 5. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
