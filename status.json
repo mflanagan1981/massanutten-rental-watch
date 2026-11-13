@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Thursday, November 12, 2026, 9:26 PM Eastern",
-  "updated_date": "2026-11-12",
+  "updated": "Friday, November 13, 2026, 6:50 AM Eastern",
+  "updated_date": "2026-11-13",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -73,26 +73,6 @@
       ],
       "coming_up": [
         {
-          "id": "county-bos-2026-11-12",
-          "side": "County",
-          "date": "2026-11-12",
-          "time": "3:00 PM",
-          "title": "Board of Supervisors",
-          "detail": "Afternoon meeting.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-          "new": false
-        },
-        {
-          "id": "county-joint-ws-2026-11-12",
-          "side": "County",
-          "date": "2026-11-12",
-          "time": "11:00 AM",
-          "title": "Joint work session on short-term rentals (Board of Supervisors and Planning Commission)",
-          "detail": "Community Development Meeting Room, Entrance C, 20 East Gay Street, Harrisonburg. Open to the public; work sessions usually take no public comment. The packet with the draft zoning rules is posted.",
-          "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-          "new": false
-        },
-        {
           "id": "county-pc-2026-12-01",
           "side": "County",
           "date": "2026-12-01",
@@ -110,6 +90,25 @@
           "detail": "3 to 5 PM, before the Planning Commission's 6 PM meeting. The Board will give staff direction on the Chapter 17 zoning draft, including the recreational lodge rule. Location to be confirmed on the county's agenda.",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
           "new": true
+        },
+        {
+          "id": "county-bos-2026-12-09",
+          "side": "County",
+          "date": "2026-12-09",
+          "time": "3:00 PM",
+          "title": "Board of Supervisors",
+          "detail": "Expected: a Chapter 9 amendment letting the health department's approved septic capacity set occupancy for homes on septic, and possibly an extension of the permit deadline to April 1, 2027.",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
+          "new": false
+        },
+        {
+          "id": "county-permit-deadline",
+          "side": "County",
+          "date": "2026-12-31",
+          "title": "Existing short-term rentals must apply for a county permit",
+          "detail": "Set by the ordinance adopted December 10, 2025.",
+          "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
+          "new": false
         }
       ],
       "findings": [
@@ -678,26 +677,6 @@
     }
   ],
   "upcoming_meetings": [
-    {
-      "id": "county-bos-2026-11-12",
-      "side": "County",
-      "date": "2026-11-12",
-      "time": "3:00 PM",
-      "title": "Board of Supervisors",
-      "detail": "Afternoon meeting.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-      "new": false
-    },
-    {
-      "id": "county-joint-ws-2026-11-12",
-      "side": "County",
-      "date": "2026-11-12",
-      "time": "11:00 AM",
-      "title": "Joint work session on short-term rentals (Board of Supervisors and Planning Commission)",
-      "detail": "Community Development Meeting Room, Entrance C, 20 East Gay Street, Harrisonburg. Open to the public; work sessions usually take no public comment. The packet with the draft zoning rules is posted.",
-      "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-      "new": false
-    },
     {
       "id": "association-taskforce-2026-11-19",
       "side": "Association",
