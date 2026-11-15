@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Saturday, November 14, 2026, 6:50 AM Eastern",
-  "updated_date": "2026-11-14",
+  "updated": "Sunday, November 15, 2026, 6:50 AM Eastern",
+  "updated_date": "2026-11-15",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -53,7 +53,7 @@
           "link": "https://www.diamondelevation.com/strowners",
           "link_label": "Add your question",
           "due_label": "Work session",
-          "new": true
+          "new": false
         },
         {
           "id": "call-county-alerts",
@@ -89,7 +89,7 @@
           "title": "Board work session on the short-term rental zoning rules",
           "detail": "3 to 5 PM, before the Planning Commission's 6 PM meeting. The Board will give staff direction on the Chapter 17 zoning draft, including the recreational lodge rule. Location to be confirmed on the county's agenda.",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-          "new": true
+          "new": false
         },
         {
           "id": "county-bos-2026-12-09",
@@ -119,7 +119,7 @@
           "title": "Work session: no decisions; the Board returns to the zoning draft December 1",
           "detail": "Staff presented the draft zoning, campground and permit changes as a starting point. Supervisors said they want time to think and will give staff direction at a work session on December 1, and staff said the draft will not change before then. The Board directed staff to bring the septic occupancy change to its December 9 meeting.",
           "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-          "new": true
+          "new": false
         },
         {
           "id": "county-grandfather-2026-11-12",
@@ -128,7 +128,7 @@
           "title": "Staff: rentals permitted by the deadline would keep operating under the new zoning",
           "detail": "Staff said rentals that obtain the county permit by the deadline would continue, whatever the new zoning says for their district. The recreational lodge rule (special use permit and commercial building standards above 10 guests) would apply to new rentals, new construction and homes converting to rental. Grandfathered homes still must meet septic, building, fire and parking requirements. Whether that status passes to a buyer was not answered. Staff also said the Virginia building code itself does not set the 10-guest line.",
           "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-          "new": true
+          "new": false
         },
         {
           "id": "county-zoning-districts-2026-11-12",
@@ -137,7 +137,7 @@
           "title": "Draft zoning: new rentals by right only in A-1, A-2, RV and R-4; Massanutten stays by right",
           "detail": "Under the draft, new short-term rentals in single-family homes would be allowed by right only in the A-1, A-2, RV and R-4 (Massanutten) districts, need a special use permit in RR-1, and be prohibited in R-1, R-2, R-3 and the planned residential districts. Duplexes and rowhouses would be allowed only in R-4, at two guests per bedroom. Owner-occupied rentals would be allowed everywhere, with a 90-day yearly limit when the owner is away.",
           "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-          "new": true
+          "new": false
         },
         {
           "id": "county-deadline-2026-11-12",
@@ -146,7 +146,7 @@
           "title": "Permit deadline stays December 31 for now; April 1 extension to be considered December 9",
           "detail": "Supervisors split on extending the deadline. As discussion ended, an extension to April 1, 2027 appeared to have enough support to come back for consideration at the December 9 meeting, but no vote was taken. Staff said about 84 permits were approved and 21 were in review as of November 5, out of an estimated 700 or more rentals. A complete application by the deadline is what counts.",
           "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-          "new": true
+          "new": false
         },
         {
           "id": "county-str-zoning-draft-2026-11-06",
@@ -429,7 +429,7 @@
       "link": "https://www.diamondelevation.com/strowners",
       "link_label": "Add your question",
       "due_label": "Work session",
-      "new": true
+      "new": false
     },
     {
       "id": "call-comment-covenants",
@@ -493,7 +493,7 @@
       "title": "Work session: no decisions; the Board returns to the zoning draft December 1",
       "detail": "Staff presented the draft zoning, campground and permit changes as a starting point. Supervisors said they want time to think and will give staff direction at a work session on December 1, and staff said the draft will not change before then. The Board directed staff to bring the septic occupancy change to its December 9 meeting.",
       "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-      "new": true
+      "new": false
     },
     {
       "id": "county-grandfather-2026-11-12",
@@ -502,7 +502,7 @@
       "title": "Staff: rentals permitted by the deadline would keep operating under the new zoning",
       "detail": "Staff said rentals that obtain the county permit by the deadline would continue, whatever the new zoning says for their district. The recreational lodge rule (special use permit and commercial building standards above 10 guests) would apply to new rentals, new construction and homes converting to rental. Grandfathered homes still must meet septic, building, fire and parking requirements. Whether that status passes to a buyer was not answered. Staff also said the Virginia building code itself does not set the 10-guest line.",
       "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-      "new": true
+      "new": false
     },
     {
       "id": "county-zoning-districts-2026-11-12",
@@ -511,7 +511,7 @@
       "title": "Draft zoning: new rentals by right only in A-1, A-2, RV and R-4; Massanutten stays by right",
       "detail": "Under the draft, new short-term rentals in single-family homes would be allowed by right only in the A-1, A-2, RV and R-4 (Massanutten) districts, need a special use permit in RR-1, and be prohibited in R-1, R-2, R-3 and the planned residential districts. Duplexes and rowhouses would be allowed only in R-4, at two guests per bedroom. Owner-occupied rentals would be allowed everywhere, with a 90-day yearly limit when the owner is away.",
       "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-      "new": true
+      "new": false
     },
     {
       "id": "county-deadline-2026-11-12",
@@ -520,7 +520,7 @@
       "title": "Permit deadline stays December 31 for now; April 1 extension to be considered December 9",
       "detail": "Supervisors split on extending the deadline. As discussion ended, an extension to April 1, 2027 appeared to have enough support to come back for consideration at the December 9 meeting, but no vote was taken. Staff said about 84 permits were approved and 21 were in review as of November 5, out of an estimated 700 or more rentals. A complete application by the deadline is what counts.",
       "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23485",
-      "new": true
+      "new": false
     },
     {
       "id": "county-str-zoning-draft-2026-11-06",
@@ -712,7 +712,7 @@
       "title": "Board work session on the short-term rental zoning rules",
       "detail": "3 to 5 PM, before the Planning Commission's 6 PM meeting. The Board will give staff direction on the Chapter 17 zoning draft, including the recreational lodge rule. Location to be confirmed on the county's agenda.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
-      "new": true
+      "new": false
     },
     {
       "id": "assoc-catforce-2026-12-03",
