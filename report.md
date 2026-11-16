@@ -1,12 +1,12 @@
 # Massanutten Rental Watch: daily report
 
-Updated Sunday, November 15, 2026, 6:50 AM Eastern.
+Updated Monday, November 16, 2026, 6:50 AM Eastern.
 
 **Nothing new since yesterday.**
 
 ## Rockingham County: Work with rental owners, in public
 
-Main action: Apply for your county rental permit by December 31: a complete application is what counts. Deadline Thu Dec 31, in 46 days. At the November 12 work session, staff said rentals that apply by the deadline would keep operating under the new zoning rules. The deadline is still December 31. A possible extension to April 1 goes to the Board on December 9, so treat December 31 as real. https://www.rockinghamcountyva.gov/972/Short-Term-Rentals
+Main action: Apply for your county rental permit by December 31: a complete application is what counts. Deadline Thu Dec 31, in 45 days. At the November 12 work session, staff said rentals that apply by the deadline would keep operating under the new zoning rules. The deadline is still December 31. A possible extension to April 1 goes to the Board on December 9, so treat December 31 as real. https://www.rockinghamcountyva.gov/972/Short-Term-Rentals
 
 Found in the last 30 days:
 - Work session: no decisions; the Board returns to the zoning draft December 1. Thursday, November 12. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
@@ -24,14 +24,12 @@ Found in the last 30 days:
 - County has approved 26 short-term rental permits so far. Wednesday, October 14. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983
 - Massanutten water and sewer rates up for review in early December. Wednesday, October 14. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983
 - Board met in closed session on litigation, with the rental administrator present. Friday, October 2. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983
-- County updated the short-term rental application form. Friday, October 2. https://www.rockinghamcountyva.gov/DocumentCenter/View/23178
-- Board keeps barring short-term rentals in second dwellings. Wednesday, September 23. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_09232026-978
 
 Page: https://mflanagan1981.github.io/massanutten-rental-watch/county.html
 
 ## Massanutten covenants: Owners should shape the covenant rewrite
 
-Main action: Tell the association what you think of Covenants 1 and 19. Before the task force meets Thu Nov 19, in 4 days. Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. Seven more sections were posted October 31, including Covenant 25 on assessments. No deadline is posted. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
+Main action: Tell the association what you think of Covenants 1 and 19. Before the task force meets Thu Nov 19, in 3 days. Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. Seven more sections were posted October 31, including Covenant 25 on assessments. No deadline is posted. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
 
 Next 14 days and open deadlines:
 - Covenant Amendment Task Force. Thursday, November 19. https://www.massanuttenvillage.com/community-happenings-calendar
@@ -41,8 +39,6 @@ Next 14 days and open deadlines:
 Found in the last 30 days:
 - Seven more covenant sections posted for comment, including assessments. Saturday, October 31. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
 - Covenant task force meeting moved to November 19. Friday, October 30. https://www.massanuttenvillage.com/community-happenings-calendar
-- Covenant rewrite still open for comment, no deadline posted. Friday, October 16. https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants
-- Firewise meeting held October 13. Tuesday, October 13. https://www.massanuttenvillage.com/community-happenings-calendar
 
 Page: https://mflanagan1981.github.io/massanutten-rental-watch/association.html
 

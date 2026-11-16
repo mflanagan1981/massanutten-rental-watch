@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Sunday, November 15, 2026, 6:50 AM Eastern",
-  "updated_date": "2026-11-15",
+  "updated": "Monday, November 16, 2026, 6:50 AM Eastern",
+  "updated_date": "2026-11-16",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -246,24 +246,6 @@
           "detail": "On October 2 the Board held a 46-minute closed meeting for consultation with legal counsel about actual or probable litigation. The county's Short-Term Rental Administrator, the zoning administrators, and the community development director attended. The minutes do not say what the litigation is.",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
           "new": false
-        },
-        {
-          "id": "county-application-form-2026-10-02",
-          "side": "County",
-          "date": "2026-10-02",
-          "title": "County updated the short-term rental application form",
-          "detail": "The Short Term Rental Application in the county's document center carries a new date of October 2, 2026. What changed has not been compared yet.",
-          "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23178",
-          "new": false
-        },
-        {
-          "id": "county-no-str-conditions-2026-09-23",
-          "side": "County",
-          "date": "2026-09-23",
-          "title": "Board keeps barring short-term rentals in second dwellings",
-          "detail": "At the September 23 meeting, applicants for a second-dwelling permit (SUP26-0903) offered a condition prohibiting short-term rentals. On July 8 the Board added the same condition to another approval by a 4 to 1 vote, at Supervisor Wolfe-Garrison's request.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_09232026-978",
-          "new": false
         }
       ]
     },
@@ -367,24 +349,6 @@
           "date": "2026-10-30",
           "title": "Covenant task force meeting moved to November 19",
           "detail": "The association's calendar now lists November 5 and December 3 as Rules Committee meetings only, and gives the Covenant Amendment Task Force its own meeting on Thursday, November 19. No time or place is listed.",
-          "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-          "new": false
-        },
-        {
-          "id": "assoc-page-unchanged-2026-10-16",
-          "side": "Association",
-          "date": "2026-10-16",
-          "title": "Covenant rewrite still open for comment, no deadline posted",
-          "detail": "The association's proposed changes page was unchanged as of October 17, and it still gives no feedback deadline and no adoption or vote process. Comments can still shape Covenants 1 and 19; see Take action at the top.",
-          "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
-          "new": false
-        },
-        {
-          "id": "assoc-firewise-2026-10-13",
-          "side": "Association",
-          "date": "2026-10-13",
-          "title": "Firewise meeting held October 13",
-          "detail": "The association's calendar shows a Firewise (wildfire safety) meeting on October 13. Wildfire risk is the likely reason for the Covenant 1 rewrite, which would ban all outdoor fires without the association's written approval.",
           "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
           "new": false
         }
@@ -637,42 +601,6 @@
       "title": "Board met in closed session on litigation, with the rental administrator present",
       "detail": "On October 2 the Board held a 46-minute closed meeting for consultation with legal counsel about actual or probable litigation. The county's Short-Term Rental Administrator, the zoning administrators, and the community development director attended. The minutes do not say what the litigation is.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-      "new": false
-    },
-    {
-      "id": "assoc-page-unchanged-2026-10-16",
-      "side": "Association",
-      "date": "2026-10-16",
-      "title": "Covenant rewrite still open for comment, no deadline posted",
-      "detail": "The association's proposed changes page was unchanged as of October 17, and it still gives no feedback deadline and no adoption or vote process. Comments can still shape Covenants 1 and 19; see Take action at the top.",
-      "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
-      "new": false
-    },
-    {
-      "id": "assoc-firewise-2026-10-13",
-      "side": "Association",
-      "date": "2026-10-13",
-      "title": "Firewise meeting held October 13",
-      "detail": "The association's calendar shows a Firewise (wildfire safety) meeting on October 13. Wildfire risk is the likely reason for the Covenant 1 rewrite, which would ban all outdoor fires without the association's written approval.",
-      "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": false
-    },
-    {
-      "id": "county-application-form-2026-10-02",
-      "side": "County",
-      "date": "2026-10-02",
-      "title": "County updated the short-term rental application form",
-      "detail": "The Short Term Rental Application in the county's document center carries a new date of October 2, 2026. What changed has not been compared yet.",
-      "link": "https://www.rockinghamcountyva.gov/DocumentCenter/View/23178",
-      "new": false
-    },
-    {
-      "id": "county-no-str-conditions-2026-09-23",
-      "side": "County",
-      "date": "2026-09-23",
-      "title": "Board keeps barring short-term rentals in second dwellings",
-      "detail": "At the September 23 meeting, applicants for a second-dwelling permit (SUP26-0903) offered a condition prohibiting short-term rentals. On July 8 the Board added the same condition to another approval by a 4 to 1 vote, at Supervisor Wolfe-Garrison's request.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_09232026-978",
       "new": false
     }
   ],
