@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Monday, November 16, 2026, 6:50 AM Eastern",
-  "updated_date": "2026-11-16",
+  "updated": "Tuesday, November 17, 2026, 6:51 AM Eastern",
+  "updated_date": "2026-11-17",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -78,6 +78,7 @@
           "date": "2026-12-01",
           "time": "6:00 PM",
           "title": "Planning Commission",
+          "detail": "6 PM, 20 East Gay Street, Harrisonburg, right after the Board's 3 to 5 PM work session on the rental zoning draft. Posted on the county calendar November 17; no agenda yet.",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
           "new": false
         },
@@ -629,6 +630,7 @@
       "date": "2026-12-01",
       "time": "6:00 PM",
       "title": "Planning Commission",
+      "detail": "6 PM, 20 East Gay Street, Harrisonburg, right after the Board's 3 to 5 PM work session on the rental zoning draft. Posted on the county calendar November 17; no agenda yet.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
       "new": false
     },
