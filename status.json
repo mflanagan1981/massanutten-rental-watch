@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Wednesday, November 18, 2026, 6:51 AM Eastern",
-  "updated_date": "2026-11-18",
+  "updated": "Thursday, November 19, 2026, 6:51 AM Eastern",
+  "updated_date": "2026-11-19",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -48,7 +48,7 @@
             "Add your question to the owners' combined list at the sign-up page. It goes to county staff before December 1.",
             "Good questions are specific: does the permit's protection pass to a buyer, or to an LLC? Can a permitted home renovate or rebuild and keep its occupancy? Which commercial building standards would a new large rental have to meet?",
             "If you write to the Board yourself, keep it short, courteous and in your own words. Massanutten is in District 5, represented by Supervisor Joel Hensley.",
-            "Come to the work session if you can: Tuesday, December 1, 3 to 5 PM, at the County Administration Center, 20 East Gay Street, Harrisonburg. The room was full on November 12."
+            "Come to the work session if you can: Tuesday, December 1, 3 PM, in the Community Development Meeting Room, entrance C, County Administration Center, 20 East Gay Street, Harrisonburg. The Planning Commission joins the Board for it. The room was full on November 12."
           ],
           "link": "https://www.diamondelevation.com/strowners",
           "link_label": "Add your question",
@@ -87,8 +87,8 @@
           "side": "County",
           "date": "2026-12-01",
           "time": "3:00 PM",
-          "title": "Board work session on the short-term rental zoning rules",
-          "detail": "3 to 5 PM, before the Planning Commission's 6 PM meeting. The Board will give staff direction on the Chapter 17 zoning draft, including the recreational lodge rule. Location to be confirmed on the county's agenda.",
+          "title": "Joint work session on the short-term rental zoning rules (Board of Supervisors and Planning Commission)",
+          "detail": "3 to 5 PM in the Community Development Meeting Room, entrance C, County Administration Center, 20 East Gay Street, Harrisonburg, before the Planning Commission's 6 PM meeting. The Board will give staff direction on the Chapter 17 zoning draft, including the recreational lodge rule. The county posted the notice November 18; no agenda yet.",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
           "new": false
         },
@@ -113,6 +113,15 @@
         }
       ],
       "findings": [
+        {
+          "id": "county-joint-ws-notice-2026-12-01",
+          "side": "County",
+          "date": "2026-11-18",
+          "title": "County notice: the December 1 rental session is a joint Board and Planning Commission work session",
+          "detail": "The county's notice, posted November 18, says the Board of Supervisors and the Planning Commission will meet jointly to discuss short-term rentals on Tuesday, December 1 at 3 PM in the Community Development Meeting Room, entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. No agenda or materials are posted yet. Work sessions usually take no public comment, so writing beforehand is the way to be heard.",
+          "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=737",
+          "new": true
+        },
         {
           "id": "county-ws-result-2026-11-12",
           "side": "County",
@@ -389,7 +398,7 @@
         "Add your question to the owners' combined list at the sign-up page. It goes to county staff before December 1.",
         "Good questions are specific: does the permit's protection pass to a buyer, or to an LLC? Can a permitted home renovate or rebuild and keep its occupancy? Which commercial building standards would a new large rental have to meet?",
         "If you write to the Board yourself, keep it short, courteous and in your own words. Massanutten is in District 5, represented by Supervisor Joel Hensley.",
-        "Come to the work session if you can: Tuesday, December 1, 3 to 5 PM, at the County Administration Center, 20 East Gay Street, Harrisonburg. The room was full on November 12."
+        "Come to the work session if you can: Tuesday, December 1, 3 PM, in the Community Development Meeting Room, entrance C, County Administration Center, 20 East Gay Street, Harrisonburg. The Planning Commission joins the Board for it. The room was full on November 12."
       ],
       "link": "https://www.diamondelevation.com/strowners",
       "link_label": "Add your question",
@@ -451,6 +460,15 @@
     }
   ],
   "key_findings_last_30_days": [
+    {
+      "id": "county-joint-ws-notice-2026-12-01",
+      "side": "County",
+      "date": "2026-11-18",
+      "title": "County notice: the December 1 rental session is a joint Board and Planning Commission work session",
+      "detail": "The county's notice, posted November 18, says the Board of Supervisors and the Planning Commission will meet jointly to discuss short-term rentals on Tuesday, December 1 at 3 PM in the Community Development Meeting Room, entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. No agenda or materials are posted yet. Work sessions usually take no public comment, so writing beforehand is the way to be heard.",
+      "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=737",
+      "new": true
+    },
     {
       "id": "county-ws-result-2026-11-12",
       "side": "County",
@@ -639,8 +657,8 @@
       "side": "County",
       "date": "2026-12-01",
       "time": "3:00 PM",
-      "title": "Board work session on the short-term rental zoning rules",
-      "detail": "3 to 5 PM, before the Planning Commission's 6 PM meeting. The Board will give staff direction on the Chapter 17 zoning draft, including the recreational lodge rule. Location to be confirmed on the county's agenda.",
+      "title": "Joint work session on the short-term rental zoning rules (Board of Supervisors and Planning Commission)",
+      "detail": "3 to 5 PM in the Community Development Meeting Room, entrance C, County Administration Center, 20 East Gay Street, Harrisonburg, before the Planning Commission's 6 PM meeting. The Board will give staff direction on the Chapter 17 zoning draft, including the recreational lodge rule. The county posted the notice November 18; no agenda yet.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
       "new": false
     },
