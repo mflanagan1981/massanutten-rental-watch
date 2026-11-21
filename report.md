@@ -1,12 +1,12 @@
 # Massanutten Rental Watch: daily report
 
-Updated Friday, November 20, 2026, 6:53 AM Eastern.
+Updated Saturday, November 21, 2026, 6:51 AM Eastern.
 
 **Nothing new since yesterday.**
 
 ## Rockingham County: Work with rental owners, in public
 
-Main action: Apply for your county rental permit by December 31: a complete application is what counts. Deadline Thu Dec 31, in 41 days. At the November 12 work session, staff said rentals that apply by the deadline would keep operating under the new zoning rules. The deadline is still December 31. A possible extension to April 1 goes to the Board on December 9, so treat December 31 as real. https://www.rockinghamcountyva.gov/972/Short-Term-Rentals
+Main action: Apply for your county rental permit by December 31: a complete application is what counts. Deadline Thu Dec 31, in 40 days. At the November 12 work session, staff said rentals that apply by the deadline would keep operating under the new zoning rules. The deadline is still December 31. A possible extension to April 1 goes to the Board on December 9, so treat December 31 as real. https://www.rockinghamcountyva.gov/972/Short-Term-Rentals
 
 Next 14 days and open deadlines:
 - Planning Commission. Tuesday, December 1, 6:00 PM. https://www.rockinghamcountyva.gov/AgendaCenter
@@ -34,7 +34,7 @@ Page: https://mflanagan1981.github.io/massanutten-rental-watch/county.html
 
 ## Massanutten covenants: Owners should shape the covenant rewrite
 
-Main action: Go to the association board meeting Saturday, November 21, or write to the board first. Board meeting Sat Nov 21, tomorrow. Owner comments start about 10:05 AM. Ask the board to send every owner revised drafts, a feedback deadline, and the adoption steps. https://www.massanuttenvillage.com/community-happenings-calendar
+Main action: Go to the association board meeting Saturday, November 21, or write to the board first. Board meeting Sat Nov 21, today. Owner comments start about 10:05 AM. Ask the board to send every owner revised drafts, a feedback deadline, and the adoption steps. https://www.massanuttenvillage.com/community-happenings-calendar
 
 Next 14 days and open deadlines:
 - Association Board of Directors. Saturday, November 21, 9:30 AM. https://www.massanuttenvillage.com/community-happenings-calendar

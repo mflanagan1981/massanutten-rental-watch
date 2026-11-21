@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Friday, November 20, 2026, 6:53 AM Eastern",
-  "updated_date": "2026-11-20",
+  "updated": "Saturday, November 21, 2026, 6:51 AM Eastern",
+  "updated_date": "2026-11-21",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -120,7 +120,7 @@
           "title": "County notice: the December 1 rental session is a joint Board and Planning Commission work session",
           "detail": "The county's notice, posted November 18, says the Board of Supervisors and the Planning Commission will meet jointly to discuss short-term rentals on Tuesday, December 1 at 3 PM in the Community Development Meeting Room, entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. No agenda or materials are posted yet. Work sessions usually take no public comment, so writing beforehand is the way to be heard.",
           "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=737",
-          "new": true
+          "new": false
         },
         {
           "id": "county-ws-result-2026-11-12",
@@ -275,7 +275,7 @@
         "steps_label": "How to take part",
         "steps": [
           "If you can come, arrive before 10 AM. Owner comments come early in the meeting. Keep yours to about three minutes.",
-          "If you cannot come, email the board through the association office at Mpoa@MassanuttenVillage.com before Saturday and ask that your note be shared with the directors.",
+          "If you cannot come, email the board through the association office at Mpoa@MassanuttenVillage.com before the meeting starts and ask that your note be shared with the directors.",
           "Ask about process: send revised drafts and a feedback deadline to every owner by email, and explain how the final wording will be adopted.",
           "If you mention specific covenants, the main concerns are Covenant 1, which would ban all outdoor fires without written approval and could reach gas fire tables and grills, and Covenant 19, which adds an undefined single-family home test and lets quiet hours be set without owner comment.",
           "Be brief and courteous, thank the board and the task force for their work, and use your own words."
@@ -417,7 +417,7 @@
       "steps_label": "How to take part",
       "steps": [
         "If you can come, arrive before 10 AM. Owner comments come early in the meeting. Keep yours to about three minutes.",
-        "If you cannot come, email the board through the association office at Mpoa@MassanuttenVillage.com before Saturday and ask that your note be shared with the directors.",
+        "If you cannot come, email the board through the association office at Mpoa@MassanuttenVillage.com before the meeting starts and ask that your note be shared with the directors.",
         "Ask about process: send revised drafts and a feedback deadline to every owner by email, and explain how the final wording will be adopted.",
         "If you mention specific covenants, the main concerns are Covenant 1, which would ban all outdoor fires without written approval and could reach gas fire tables and grills, and Covenant 19, which adds an undefined single-family home test and lets quiet hours be set without owner comment.",
         "Be brief and courteous, thank the board and the task force for their work, and use your own words."
@@ -470,7 +470,7 @@
       "title": "County notice: the December 1 rental session is a joint Board and Planning Commission work session",
       "detail": "The county's notice, posted November 18, says the Board of Supervisors and the Planning Commission will meet jointly to discuss short-term rentals on Tuesday, December 1 at 3 PM in the Community Development Meeting Room, entrance C, Rockingham County Administration Center, 20 East Gay Street, Harrisonburg. No agenda or materials are posted yet. Work sessions usually take no public comment, so writing beforehand is the way to be heard.",
       "link": "https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=737",
-      "new": true
+      "new": false
     },
     {
       "id": "county-ws-result-2026-11-12",
