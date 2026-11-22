@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Saturday, November 21, 2026, 6:51 AM Eastern",
-  "updated_date": "2026-11-21",
+  "updated": "Sunday, November 22, 2026, 6:52 AM Eastern",
+  "updated_date": "2026-11-22",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -16,26 +16,50 @@
       "page": "https://mflanagan1981.github.io/massanutten-rental-watch/county.html",
       "embed": "https://mflanagan1981.github.io/massanutten-rental-watch/embed-county.html",
       "main_action": {
-        "id": "call-county-permit-2026-12-31",
+        "id": "call-county-letters-2026-12-01",
         "side": "County",
-        "date": "2026-12-31",
-        "title": "Apply for your county rental permit by December 31: a complete application is what counts",
-        "short": "At the November 12 work session, staff said rentals that apply by the deadline would keep operating under the new zoning rules. The deadline is still December 31. A possible extension to April 1 goes to the Board on December 9, so treat December 31 as real.",
-        "detail": "Every short-term rental already operating must apply for the county permit by December 31, 2026. The Board's discussion on November 12 made clear that a complete application, including the fee, is what must be in by the deadline, not an approved permit. Staff said homes permitted by the deadline could continue under the draft zoning rules, while new rentals hosting more than 10 guests would need a special use permit and commercial building standards. Whether that status passes to a buyer when a home is sold was not answered.",
-        "steps_label": "What you need",
+        "date": "2026-12-01",
+        "title": "Write the Board of Supervisors and the Planning Commission before December 1",
+        "short": "Send a short, personal note to all five supervisors and to the Planning Commission before their joint session on the rental zoning draft. Write this weekend or by November 30.",
+        "detail": "On Tuesday, December 1 the Board of Supervisors and the Planning Commission meet together to give county staff direction on the draft zoning rules for short-term rentals. Under the draft, a rental for more than 10 guests would become a recreational lodge, needing a special use permit and commercial building standards, including in R-4 districts such as Massanutten. Staff said homes permitted by the deadline would continue, but did not say whether that protection passes to a buyer. Work sessions usually take no public comment, so a personal note from owners who live with these rules is the best way to be heard. Keith Sheets is the Planning Commission member for District 5, which includes Massanutten. The County does not publish email addresses for commissioners, so send your note to Community Development and ask that it be shared with all of them.",
+        "steps_label": "What to write",
         "steps": [
-          "Download the application from the county's Short-Term Rentals page.",
-          "The form allows up to two guests per bedroom, plus four on public sewer. Under the draft, what your permit approves is what continues, so enter the occupancy you actually need, up to that limit.",
-          "Attach a site layout, a fire safety and evacuation plan with a diagram for each bedroom, proof of short-term rental liability insurance, and the $200 application fee.",
-          "The affidavit of compliance on that page is for renewing next year, not for this application.",
-          "Apply now rather than in December. Call the county's short-term rental administrator at (540) 564-3029 to confirm your application is complete, and ask for your approved use and occupancy in writing."
+          "Say who you are: your name, your Massanutten home, and how long you have owned it.",
+          "Ask the County to leave homes in R-4 districts, such as Massanutten, out of the recreational lodge rule.",
+          "Ask the County to keep the limit the Board adopted in December 2025: two guests per bedroom, plus four.",
+          "Ask that existing homes be protected, and that the protection stay with the home when it is sold.",
+          "Ask the County to study the economic impact before acting.",
+          "Keep it short, courteous, and in your own words. Letters to the County become public record.",
+          "Send it to all five supervisors: Joel Hensley, District 5, which includes Massanutten, at jhensley@rockinghamcountyva.gov; Dewey Ritchie, District 1, at dritchie@rockinghamcountyva.gov; Sallie Wolfe-Garrison, District 2, at swolfe-garrison@rockinghamcountyva.gov; Matt Dale, District 3, at mdale@rockinghamcountyva.gov; and Leila Longcor, District 4, at llongcor@rockinghamcountyva.gov.",
+          "Copy Community Development at rsalatin@rockinghamcountyva.gov and dnicely@rockinghamcountyva.gov, and ask that your note be shared with every Planning Commission member, including Keith Sheets of District 5.",
+          "Write it this weekend if you can, and send it no later than Monday, November 30."
         ],
-        "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
-        "link_label": "County short-term rental page",
-        "due_label": "Deadline",
-        "new": false
+        "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
+        "link_label": "Board of Supervisors page",
+        "due_label": "Write by",
+        "new": true
       },
       "more_actions": [
+        {
+          "id": "call-county-permit-2026-12-31",
+          "side": "County",
+          "date": "2026-12-31",
+          "title": "Apply for your county rental permit by December 31: a complete application is what counts",
+          "short": "At the November 12 work session, staff said rentals that apply by the deadline would keep operating under the new zoning rules. The deadline is still December 31. A possible extension to April 1 goes to the Board on December 9, so treat December 31 as real.",
+          "detail": "Every short-term rental already operating must apply for the county permit by December 31, 2026. The Board's discussion on November 12 made clear that a complete application, including the fee, is what must be in by the deadline, not an approved permit. Staff said homes permitted by the deadline could continue under the draft zoning rules, while new rentals hosting more than 10 guests would need a special use permit and commercial building standards. Whether that status passes to a buyer when a home is sold was not answered.",
+          "steps_label": "What you need",
+          "steps": [
+            "Download the application from the county's Short-Term Rentals page.",
+            "The form allows up to two guests per bedroom, plus four on public sewer. Under the draft, what your permit approves is what continues, so enter the occupancy you actually need, up to that limit.",
+            "Attach a site layout, a fire safety and evacuation plan with a diagram for each bedroom, proof of short-term rental liability insurance, and the $200 application fee.",
+            "The affidavit of compliance on that page is for renewing next year, not for this application.",
+            "Apply now rather than in December. Call the county's short-term rental administrator at (540) 564-3029 to confirm your application is complete, and ask for your approved use and occupancy in writing."
+          ],
+          "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
+          "link_label": "County short-term rental page",
+          "due_label": "Deadline",
+          "new": false
+        },
         {
           "id": "call-county-ws-2026-12-01",
           "side": "County",
@@ -266,57 +290,26 @@
       "page": "https://mflanagan1981.github.io/massanutten-rental-watch/association.html",
       "embed": "https://mflanagan1981.github.io/massanutten-rental-watch/embed-association.html",
       "main_action": {
-        "id": "call-assoc-board-2026-11-21",
+        "id": "call-comment-covenants",
         "side": "Association",
-        "date": "2026-11-21",
-        "title": "Go to the association board meeting Saturday, November 21, or write to the board first",
-        "short": "Owner comments start about 10:05 AM. Ask the board to send every owner revised drafts, a feedback deadline, and the adoption steps.",
-        "detail": "The association's Board of Directors meets Saturday, November 21 in the J.C. Powell Meeting Room. A budget work session starts at 9:30 AM and the regular meeting at 10 AM, with owner comments at about 10:05 AM. The covenant rewrite still has no posted feedback deadline and no description of how the final wording will be adopted, so the board is the right place to ask about process. Most of the rewrite is a sensible cleanup; the concerns are Covenants 1 and 19, and making sure every owner has a fair chance to respond.",
-        "steps_label": "How to take part",
+        "title": "Tell the association what you think of Covenants 1 and 19",
+        "short": "Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. Seven more sections were posted October 31, including Covenant 25 on assessments. No deadline is posted, so comments are still open.",
+        "detail": "The covenant rewrite is open for owner comment and no deadline has been posted. Two changes affect every owner. Covenant 1 would ban all outdoor fires without the association's written approval, which could cover gas fire tables, fire pits, outdoor fireplaces, and grills, and an approval could be revoked at any time. Covenant 19 adds an undefined test that activities, amenities, and lighting be consistent with a single-family home on a comparably sized lot, and lets the association set quiet hours for noise and lighting without an owner vote.",
+        "steps_label": "What to write",
         "steps": [
-          "If you can come, arrive before 10 AM. Owner comments come early in the meeting. Keep yours to about three minutes.",
-          "If you cannot come, email the board through the association office at Mpoa@MassanuttenVillage.com before the meeting starts and ask that your note be shared with the directors.",
-          "Ask about process: send revised drafts and a feedback deadline to every owner by email, and explain how the final wording will be adopted.",
-          "If you mention specific covenants, the main concerns are Covenant 1, which would ban all outdoor fires without written approval and could reach gas fire tables and grills, and Covenant 19, which adds an undefined single-family home test and lets quiet hours be set without owner comment.",
-          "Be brief and courteous, thank the board and the task force for their work, and use your own words."
+          "Open the feedback form. Each covenant has its own comment box.",
+          "Covenant 1 box: ask that outdoor fire be defined as burning wood, brush, leaves, or trash, and campfires; that gas fire features and grills be expressly allowed; and that an approval be revocable only for cause or during an official burn ban.",
+          "Covenant 19 box: ask that the sentence about being consistent with a single-family home be removed, that quiet hours be set only after owner notice and comment, and that entry, path, and stair safety lighting be exempt.",
+          "New on October 31: read Covenants 3, 9 and 10, 12, 15, 25, 26, and 29, and use their boxes if they matter to you. Covenant 25 drops the word \"reasonable\" and the list of purposes from annual assessments; Covenant 9 requires approval to remove most trees.",
+          "Use your own words. Short comments from many owners carry more weight than one long letter.",
+          "The form asks for your name, Massanutten address, and email."
         ],
-        "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-        "link_label": "See the association calendar",
-        "due_label": "Board meeting",
-        "new": true
+        "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
+        "link_label": "Open the feedback form",
+        "new": false
       },
-      "more_actions": [
-        {
-          "id": "call-comment-covenants",
-          "side": "Association",
-          "title": "Tell the association what you think of Covenants 1 and 19",
-          "short": "Covenant 1 would ban outdoor fires without written approval. Covenant 19 adds new limits on activities, lighting, and quiet hours. Seven more sections were posted October 31, including Covenant 25 on assessments. No deadline is posted, so comments are still open.",
-          "detail": "The covenant rewrite is open for owner comment and no deadline has been posted. Two changes affect every owner. Covenant 1 would ban all outdoor fires without the association's written approval, which could cover gas fire tables, fire pits, outdoor fireplaces, and grills, and an approval could be revoked at any time. Covenant 19 adds an undefined test that activities, amenities, and lighting be consistent with a single-family home on a comparably sized lot, and lets the association set quiet hours for noise and lighting without an owner vote.",
-          "steps_label": "What to write",
-          "steps": [
-            "Open the feedback form. Each covenant has its own comment box.",
-            "Covenant 1 box: ask that outdoor fire be defined as burning wood, brush, leaves, or trash, and campfires; that gas fire features and grills be expressly allowed; and that an approval be revocable only for cause or during an official burn ban.",
-            "Covenant 19 box: ask that the sentence about being consistent with a single-family home be removed, that quiet hours be set only after owner notice and comment, and that entry, path, and stair safety lighting be exempt.",
-            "New on October 31: read Covenants 3, 9 and 10, 12, 15, 25, 26, and 29, and use their boxes if they matter to you. Covenant 25 drops the word \"reasonable\" and the list of purposes from annual assessments; Covenant 9 requires approval to remove most trees.",
-            "Use your own words. Short comments from many owners carry more weight than one long letter.",
-            "The form asks for your name, Massanutten address, and email."
-          ],
-          "link": "https://www.massanuttenvillage.com/proposed-changes-to-mpoa-covenants",
-          "link_label": "Open the feedback form",
-          "new": false
-        }
-      ],
+      "more_actions": [],
       "coming_up": [
-        {
-          "id": "assoc-board-2026-11-21",
-          "side": "Association",
-          "date": "2026-11-21",
-          "time": "9:30 AM",
-          "title": "Association Board of Directors",
-          "detail": "Saturday in the J.C. Powell Meeting Room. Budget work session 9:30 AM, regular meeting 10 AM, owner comments at about 10:05 AM.",
-          "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-          "new": false
-        },
         {
           "id": "assoc-catforce-2026-12-03",
           "side": "Association",
@@ -341,6 +334,15 @@
           "date": "2026-12-17",
           "title": "Covenant Amendment Task Force",
           "detail": "Second task force meeting on the calendar, after November 19. Time and place not listed.",
+          "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
+          "new": false
+        },
+        {
+          "id": "association-rules-2027-01-07",
+          "side": "Association",
+          "date": "2027-01-07",
+          "title": "Rules Committee",
+          "detail": "Time and place not listed.",
           "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
           "new": false
         }
@@ -368,6 +370,30 @@
     }
   },
   "take_action": [
+    {
+      "id": "call-county-letters-2026-12-01",
+      "side": "County",
+      "date": "2026-12-01",
+      "title": "Write the Board of Supervisors and the Planning Commission before December 1",
+      "short": "Send a short, personal note to all five supervisors and to the Planning Commission before their joint session on the rental zoning draft. Write this weekend or by November 30.",
+      "detail": "On Tuesday, December 1 the Board of Supervisors and the Planning Commission meet together to give county staff direction on the draft zoning rules for short-term rentals. Under the draft, a rental for more than 10 guests would become a recreational lodge, needing a special use permit and commercial building standards, including in R-4 districts such as Massanutten. Staff said homes permitted by the deadline would continue, but did not say whether that protection passes to a buyer. Work sessions usually take no public comment, so a personal note from owners who live with these rules is the best way to be heard. Keith Sheets is the Planning Commission member for District 5, which includes Massanutten. The County does not publish email addresses for commissioners, so send your note to Community Development and ask that it be shared with all of them.",
+      "steps_label": "What to write",
+      "steps": [
+        "Say who you are: your name, your Massanutten home, and how long you have owned it.",
+        "Ask the County to leave homes in R-4 districts, such as Massanutten, out of the recreational lodge rule.",
+        "Ask the County to keep the limit the Board adopted in December 2025: two guests per bedroom, plus four.",
+        "Ask that existing homes be protected, and that the protection stay with the home when it is sold.",
+        "Ask the County to study the economic impact before acting.",
+        "Keep it short, courteous, and in your own words. Letters to the County become public record.",
+        "Send it to all five supervisors: Joel Hensley, District 5, which includes Massanutten, at jhensley@rockinghamcountyva.gov; Dewey Ritchie, District 1, at dritchie@rockinghamcountyva.gov; Sallie Wolfe-Garrison, District 2, at swolfe-garrison@rockinghamcountyva.gov; Matt Dale, District 3, at mdale@rockinghamcountyva.gov; and Leila Longcor, District 4, at llongcor@rockinghamcountyva.gov.",
+        "Copy Community Development at rsalatin@rockinghamcountyva.gov and dnicely@rockinghamcountyva.gov, and ask that your note be shared with every Planning Commission member, including Keith Sheets of District 5.",
+        "Write it this weekend if you can, and send it no later than Monday, November 30."
+      ],
+      "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
+      "link_label": "Board of Supervisors page",
+      "due_label": "Write by",
+      "new": true
+    },
     {
       "id": "call-county-permit-2026-12-31",
       "side": "County",
@@ -406,26 +432,6 @@
       "link_label": "Add your question",
       "due_label": "Work session",
       "new": false
-    },
-    {
-      "id": "call-assoc-board-2026-11-21",
-      "side": "Association",
-      "date": "2026-11-21",
-      "title": "Go to the association board meeting Saturday, November 21, or write to the board first",
-      "short": "Owner comments start about 10:05 AM. Ask the board to send every owner revised drafts, a feedback deadline, and the adoption steps.",
-      "detail": "The association's Board of Directors meets Saturday, November 21 in the J.C. Powell Meeting Room. A budget work session starts at 9:30 AM and the regular meeting at 10 AM, with owner comments at about 10:05 AM. The covenant rewrite still has no posted feedback deadline and no description of how the final wording will be adopted, so the board is the right place to ask about process. Most of the rewrite is a sensible cleanup; the concerns are Covenants 1 and 19, and making sure every owner has a fair chance to respond.",
-      "steps_label": "How to take part",
-      "steps": [
-        "If you can come, arrive before 10 AM. Owner comments come early in the meeting. Keep yours to about three minutes.",
-        "If you cannot come, email the board through the association office at Mpoa@MassanuttenVillage.com before the meeting starts and ask that your note be shared with the directors.",
-        "Ask about process: send revised drafts and a feedback deadline to every owner by email, and explain how the final wording will be adopted.",
-        "If you mention specific covenants, the main concerns are Covenant 1, which would ban all outdoor fires without written approval and could reach gas fire tables and grills, and Covenant 19, which adds an undefined single-family home test and lets quiet hours be set without owner comment.",
-        "Be brief and courteous, thank the board and the task force for their work, and use your own words."
-      ],
-      "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "link_label": "See the association calendar",
-      "due_label": "Board meeting",
-      "new": true
     },
     {
       "id": "call-comment-covenants",
@@ -627,16 +633,6 @@
     }
   ],
   "upcoming_meetings": [
-    {
-      "id": "assoc-board-2026-11-21",
-      "side": "Association",
-      "date": "2026-11-21",
-      "time": "9:30 AM",
-      "title": "Association Board of Directors",
-      "detail": "Saturday in the J.C. Powell Meeting Room. Budget work session 9:30 AM, regular meeting 10 AM, owner comments at about 10:05 AM.",
-      "link": "https://www.massanuttenvillage.com/community-happenings-calendar",
-      "new": false
-    },
     {
       "id": "county-pc-2026-12-01",
       "side": "County",
