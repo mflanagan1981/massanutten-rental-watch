@@ -1,12 +1,12 @@
 # Massanutten Rental Watch: daily report
 
-Updated Sunday, November 22, 2026, 6:52 AM Eastern.
+Updated Monday, November 23, 2026, 6:51 AM Eastern.
 
 **Nothing new since yesterday.**
 
 ## Rockingham County: Work with rental owners, in public
 
-Main action: Write the Board of Supervisors and the Planning Commission before December 1. Write by Tue Dec 1, in 9 days. Send a short, personal note to all five supervisors and to the Planning Commission before their joint session on the rental zoning draft. Write this weekend or by November 30. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
+Main action: Write the Board of Supervisors and the Planning Commission before December 1. Write by Tue Dec 1, in 8 days. Send a short, personal note to all five supervisors and to the Planning Commission before their joint session on the rental zoning draft. Write this weekend or by November 30. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
 
 Next 14 days and open deadlines:
 - Planning Commission. Tuesday, December 1, 6:00 PM. https://www.rockinghamcountyva.gov/AgendaCenter
