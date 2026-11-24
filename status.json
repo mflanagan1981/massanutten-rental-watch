@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Monday, November 23, 2026, 6:51 AM Eastern",
-  "updated_date": "2026-11-23",
+  "updated": "Tuesday, November 24, 2026, 6:51 AM Eastern",
+  "updated_date": "2026-11-24",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -37,7 +37,7 @@
         "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
         "link_label": "Board of Supervisors page",
         "due_label": "Write by",
-        "new": true
+        "new": false
       },
       "more_actions": [
         {
@@ -235,51 +235,6 @@
           "detail": "The November 4 Planning Commission agenda lists upcoming joint work sessions with the Board of Supervisors: short-term rentals on November 12 and strategic planning on December 3. No time, materials, or agenda for the session are posted yet. Work sessions usually take no public comment, so writing beforehand is the way to be heard.",
           "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
           "new": false
-        },
-        {
-          "id": "county-barn-sup-2026-10-14",
-          "side": "County",
-          "date": "2026-10-14",
-          "title": "Board denied the 10-bedroom short-term rental barn, 5 to 0",
-          "detail": "On October 14 the Board denied a permit to turn a barn on Resort Drive, McGaheysville, into a second dwelling with up to 10 bedrooms for short-term rental. Supervisor Hensley, who represents Massanutten, made the motion; he said the application left out maximum occupancy and that second dwellings on farm land were meant for family or farming. Chair Longcor and Supervisor Dale called the rental a commercial business in a non-commercial zone. Neighbors spoke against it. Source: the October 14 minutes in the October 28 agenda packet.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-          "new": false
-        },
-        {
-          "id": "county-no-str-condition-pullen-2026-10-14",
-          "side": "County",
-          "date": "2026-10-14",
-          "title": "Another approval came with a ban on short-term rentals",
-          "detail": "Also on October 14, the Board approved a second dwelling in Cross Keys for an aging parent, with the condition that neither house may ever be a short-term rental. Supervisor Dale proposed the condition. Supervisor Wolfe-Garrison objected that it limits property rights and sets a precedent, but the vote was 5 to 0.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-          "new": false
-        },
-        {
-          "id": "county-str-permits-26-2026-10",
-          "side": "County",
-          "date": "2026-10-14",
-          "title": "County has approved 26 short-term rental permits so far",
-          "detail": "The community development report in the October 28 agenda packet lists 26 approved permits. Every short-term rental already operating must apply by December 31.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-          "new": false
-        },
-        {
-          "id": "county-mwsa-rates-2026-10-14",
-          "side": "County",
-          "date": "2026-10-14",
-          "title": "Massanutten water and sewer rates up for review in early December",
-          "detail": "On October 14 county staff said they have finished the promised one-year review of Massanutten Water and Sewer Authority rates and asked for a work session with the authority in early December. No date is set yet.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-          "new": false
-        },
-        {
-          "id": "county-closed-litigation-2026-10-02",
-          "side": "County",
-          "date": "2026-10-02",
-          "title": "Board met in closed session on litigation, with the rental administrator present",
-          "detail": "On October 2 the Board held a 46-minute closed meeting for consultation with legal counsel about actual or probable litigation. The county's Short-Term Rental Administrator, the zoning administrators, and the community development director attended. The minutes do not say what the litigation is.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-          "new": false
         }
       ]
     },
@@ -392,7 +347,7 @@
       "link": "https://www.rockinghamcountyva.gov/172/Board-of-Supervisors",
       "link_label": "Board of Supervisors page",
       "due_label": "Write by",
-      "new": true
+      "new": false
     },
     {
       "id": "call-county-permit-2026-12-31",
@@ -584,51 +539,6 @@
       "title": "Board and Planning Commission to hold a joint work session on short-term rentals November 12",
       "detail": "The November 4 Planning Commission agenda lists upcoming joint work sessions with the Board of Supervisors: short-term rentals on November 12 and strategic planning on December 3. No time, materials, or agenda for the session are posted yet. Work sessions usually take no public comment, so writing beforehand is the way to be heard.",
       "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984",
-      "new": false
-    },
-    {
-      "id": "county-barn-sup-2026-10-14",
-      "side": "County",
-      "date": "2026-10-14",
-      "title": "Board denied the 10-bedroom short-term rental barn, 5 to 0",
-      "detail": "On October 14 the Board denied a permit to turn a barn on Resort Drive, McGaheysville, into a second dwelling with up to 10 bedrooms for short-term rental. Supervisor Hensley, who represents Massanutten, made the motion; he said the application left out maximum occupancy and that second dwellings on farm land were meant for family or farming. Chair Longcor and Supervisor Dale called the rental a commercial business in a non-commercial zone. Neighbors spoke against it. Source: the October 14 minutes in the October 28 agenda packet.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-      "new": false
-    },
-    {
-      "id": "county-no-str-condition-pullen-2026-10-14",
-      "side": "County",
-      "date": "2026-10-14",
-      "title": "Another approval came with a ban on short-term rentals",
-      "detail": "Also on October 14, the Board approved a second dwelling in Cross Keys for an aging parent, with the condition that neither house may ever be a short-term rental. Supervisor Dale proposed the condition. Supervisor Wolfe-Garrison objected that it limits property rights and sets a precedent, but the vote was 5 to 0.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-      "new": false
-    },
-    {
-      "id": "county-str-permits-26-2026-10",
-      "side": "County",
-      "date": "2026-10-14",
-      "title": "County has approved 26 short-term rental permits so far",
-      "detail": "The community development report in the October 28 agenda packet lists 26 approved permits. Every short-term rental already operating must apply by December 31.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-      "new": false
-    },
-    {
-      "id": "county-mwsa-rates-2026-10-14",
-      "side": "County",
-      "date": "2026-10-14",
-      "title": "Massanutten water and sewer rates up for review in early December",
-      "detail": "On October 14 county staff said they have finished the promised one-year review of Massanutten Water and Sewer Authority rates and asked for a work session with the authority in early December. No date is set yet.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
-      "new": false
-    },
-    {
-      "id": "county-closed-litigation-2026-10-02",
-      "side": "County",
-      "date": "2026-10-02",
-      "title": "Board met in closed session on litigation, with the rental administrator present",
-      "detail": "On October 2 the Board held a 46-minute closed meeting for consultation with legal counsel about actual or probable litigation. The county's Short-Term Rental Administrator, the zoning administrators, and the community development director attended. The minutes do not say what the litigation is.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983",
       "new": false
     }
   ],

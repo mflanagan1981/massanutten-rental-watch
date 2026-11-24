@@ -1,12 +1,12 @@
 # Massanutten Rental Watch: daily report
 
-Updated Monday, November 23, 2026, 6:51 AM Eastern.
+Updated Tuesday, November 24, 2026, 6:51 AM Eastern.
 
 **Nothing new since yesterday.**
 
 ## Rockingham County: Work with rental owners, in public
 
-Main action: Write the Board of Supervisors and the Planning Commission before December 1. Write by Tue Dec 1, in 8 days. Send a short, personal note to all five supervisors and to the Planning Commission before their joint session on the rental zoning draft. Write this weekend or by November 30. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
+Main action: Write the Board of Supervisors and the Planning Commission before December 1. Write by Tue Dec 1, in 7 days. Send a short, personal note to all five supervisors and to the Planning Commission before their joint session on the rental zoning draft. Write this weekend or by November 30. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
 
 Next 14 days and open deadlines:
 - Planning Commission. Tuesday, December 1, 6:00 PM. https://www.rockinghamcountyva.gov/AgendaCenter
@@ -24,11 +24,6 @@ Found in the last 30 days:
 - County fee schedule: $200 rental permit, $250 to appeal. Tuesday, November 3. https://www.rockinghamcountyva.gov/DocumentCenter/View/23475
 - Short-term rental work session set for November 12 at 11 AM. Monday, November 2. https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=736
 - Board and Planning Commission to hold a joint work session on short-term rentals November 12. Thursday, October 29. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_11042026-984
-- Board denied the 10-bedroom short-term rental barn, 5 to 0. Wednesday, October 14. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983
-- Another approval came with a ban on short-term rentals. Wednesday, October 14. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983
-- County has approved 26 short-term rental permits so far. Wednesday, October 14. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983
-- Massanutten water and sewer rates up for review in early December. Wednesday, October 14. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983
-- Board met in closed session on litigation, with the rental administrator present. Friday, October 2. https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_10282026-983
 
 Page: https://mflanagan1981.github.io/massanutten-rental-watch/county.html
 
@@ -38,6 +33,7 @@ Main action: Tell the association what you think of Covenants 1 and 19. Covenant
 
 Next 14 days and open deadlines:
 - Rules Committee. Thursday, December 3. https://www.massanuttenvillage.com/community-happenings-calendar
+- Firewise meeting. Tuesday, December 8. https://www.massanuttenvillage.com/community-happenings-calendar
 - Covenant feedback deadline: not announced.
 
 Found in the last 30 days:
