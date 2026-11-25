@@ -1,19 +1,26 @@
 # Massanutten Rental Watch: daily report
 
-Updated Tuesday, November 24, 2026, 6:51 AM Eastern.
+Updated Wednesday, November 25, 2026, 6:54 AM Eastern.
 
-**Nothing new since yesterday.**
+**2 new since yesterday.**
 
 ## Rockingham County: Work with rental owners, in public
 
-Main action: Write the Board of Supervisors and the Planning Commission before December 1. Write by Tue Dec 1, in 7 days. Send a short, personal note to all five supervisors and to the Planning Commission before their joint session on the rental zoning draft. Write this weekend or by November 30. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
+New:
+- Permit deadline is still December 31; staff propose April 1, with a possible Board vote December 9. Wednesday, November 25. https://www.rockinghamcountyva.gov/972/Short-Term-Rentals
+- County reposted the December 1 notice: the session is on the rental zoning amendment. Tuesday, November 24. https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=739
+
+Main action: Write the Board of Supervisors and the Planning Commission before December 1. Write by Tue Dec 1, in 6 days. Send a short, personal note to all five supervisors and to the Planning Commission before their joint session on the rental zoning draft. Write this weekend or by November 30. https://www.rockinghamcountyva.gov/172/Board-of-Supervisors
 
 Next 14 days and open deadlines:
 - Planning Commission. Tuesday, December 1, 6:00 PM. https://www.rockinghamcountyva.gov/AgendaCenter
 - Joint work session on the short-term rental zoning rules (Board of Supervisors and Planning Commission). Tuesday, December 1, 3:00 PM. https://www.rockinghamcountyva.gov/AgendaCenter
+- Board of Supervisors. Wednesday, December 9, 3:00 PM. https://www.rockinghamcountyva.gov/AgendaCenter
 
 Found in the last 30 days:
-- County notice: the December 1 rental session is a joint Board and Planning Commission work session. Wednesday, November 18. https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=737
+- Permit deadline is still December 31; staff propose April 1, with a possible Board vote December 9. Wednesday, November 25. https://www.rockinghamcountyva.gov/972/Short-Term-Rentals
+- County reposted the December 1 notice: the session is on the rental zoning amendment. Tuesday, November 24. https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=739
+- County notice: the December 1 rental session is a joint Board and Planning Commission work session. Wednesday, November 18. https://www.rockinghamcountyva.gov/CivicAlerts.aspx?aid=739
 - Work session: no decisions; the Board returns to the zoning draft December 1. Thursday, November 12. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
 - Staff: rentals permitted by the deadline would keep operating under the new zoning. Thursday, November 12. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
 - Draft zoning: new rentals by right only in A-1, A-2, RV and R-4; Massanutten stays by right. Thursday, November 12. https://www.rockinghamcountyva.gov/DocumentCenter/View/23485
