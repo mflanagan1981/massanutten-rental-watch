@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Wednesday, November 25, 2026, 6:54 AM Eastern",
-  "updated_date": "2026-11-25",
+  "updated": "Thursday, November 26, 2026, 6:59 AM Eastern",
+  "updated_date": "2026-11-26",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -102,8 +102,8 @@
           "date": "2026-12-01",
           "time": "6:00 PM",
           "title": "Planning Commission",
-          "detail": "6 PM, 20 East Gay Street, Harrisonburg, right after the Board's 3 to 5 PM work session on the rental zoning draft. Posted on the county calendar November 17; no agenda yet.",
-          "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
+          "detail": "6 PM, 20 East Gay Street, Harrisonburg, after the separate 3 to 5 PM joint work session on the rental zoning amendment. The agenda, posted November 25, has two rezonings (Bear Crossing Townhomes and Dynamo Transport) and no short-term rental item.",
+          "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_12012026-988",
           "new": false
         },
         {
@@ -138,11 +138,19 @@
       ],
       "findings": [
         {
+          "id": "county-mpoa-letter-2026-11-24",
+          "side": "County",
+          "date": "2026-11-24",
+          "title": "Property owners association wrote the Board and Planning Commission about the zoning draft",
+          "detail": "The Massanutten Property Owners Association sent the Board of Supervisors and the Planning Commission a letter dated November 24, 2026, signed by President Terry Wilmer, ahead of the December 1 work session on the draft short-term rental zoning amendment. The association emailed it to all owners on November 25. The letter asks that short-term rentals continue as permitted uses by right in the R-4 district with an administrative permit. It notes a problem with the master plan for \"recreational lodges\" in R-4. It notes that the two guests per bedroom plus four limit in Chapter 9 matches the association's own rule. It raises resale and assessed values and local jobs, and it asks how any protection for existing permitted rentals would be written into the ordinance.",
+          "new": true
+        },
+        {
           "id": "county-permit-deadline-clarified-2026-11-25",
           "side": "County",
           "date": "2026-11-25",
           "title": "Permit deadline is still December 31; staff propose April 1, with a possible Board vote December 9",
-          "detail": "The County permit deadline is December 31, 2026. County staff have proposed moving it to April 1, 2027. Staff are expected to bring the revised wording to the December 1 joint work session, and if there is agreement it would be advertised for a Board vote on December 9. Until the Board votes, treat December 31 as the deadline. December 1 is not a permit deadline. County staff have said the proposed Chapter 9 changes are intended to be adopted at the Board's December 9 meeting at 6 PM. As of November 25, no December 9 agenda or legal notice is posted on the County's website.",
+          "detail": "The County permit deadline is December 31, 2026. County staff have proposed moving it to April 1, 2027. Staff are expected to bring the revised wording to the December 1 joint work session, and if there is agreement it would be advertised for a Board vote on December 9. Until the Board votes, treat December 31 as the deadline. December 1 is not a permit deadline. County staff have said the proposed Chapter 9 changes are intended to be adopted at the Board's December 9 meeting at 6 PM. As of November 26, no December 9 agenda or legal notice is posted on the County's website.",
           "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
           "new": true
         },
@@ -443,11 +451,19 @@
   ],
   "key_findings_last_30_days": [
     {
+      "id": "county-mpoa-letter-2026-11-24",
+      "side": "County",
+      "date": "2026-11-24",
+      "title": "Property owners association wrote the Board and Planning Commission about the zoning draft",
+      "detail": "The Massanutten Property Owners Association sent the Board of Supervisors and the Planning Commission a letter dated November 24, 2026, signed by President Terry Wilmer, ahead of the December 1 work session on the draft short-term rental zoning amendment. The association emailed it to all owners on November 25. The letter asks that short-term rentals continue as permitted uses by right in the R-4 district with an administrative permit. It notes a problem with the master plan for \"recreational lodges\" in R-4. It notes that the two guests per bedroom plus four limit in Chapter 9 matches the association's own rule. It raises resale and assessed values and local jobs, and it asks how any protection for existing permitted rentals would be written into the ordinance.",
+      "new": true
+    },
+    {
       "id": "county-permit-deadline-clarified-2026-11-25",
       "side": "County",
       "date": "2026-11-25",
       "title": "Permit deadline is still December 31; staff propose April 1, with a possible Board vote December 9",
-      "detail": "The County permit deadline is December 31, 2026. County staff have proposed moving it to April 1, 2027. Staff are expected to bring the revised wording to the December 1 joint work session, and if there is agreement it would be advertised for a Board vote on December 9. Until the Board votes, treat December 31 as the deadline. December 1 is not a permit deadline. County staff have said the proposed Chapter 9 changes are intended to be adopted at the Board's December 9 meeting at 6 PM. As of November 25, no December 9 agenda or legal notice is posted on the County's website.",
+      "detail": "The County permit deadline is December 31, 2026. County staff have proposed moving it to April 1, 2027. Staff are expected to bring the revised wording to the December 1 joint work session, and if there is agreement it would be advertised for a Board vote on December 9. Until the Board votes, treat December 31 as the deadline. December 1 is not a permit deadline. County staff have said the proposed Chapter 9 changes are intended to be adopted at the Board's December 9 meeting at 6 PM. As of November 26, no December 9 agenda or legal notice is posted on the County's website.",
       "link": "https://www.rockinghamcountyva.gov/972/Short-Term-Rentals",
       "new": true
     },
@@ -585,8 +601,8 @@
       "date": "2026-12-01",
       "time": "6:00 PM",
       "title": "Planning Commission",
-      "detail": "6 PM, 20 East Gay Street, Harrisonburg, right after the Board's 3 to 5 PM work session on the rental zoning draft. Posted on the county calendar November 17; no agenda yet.",
-      "link": "https://www.rockinghamcountyva.gov/AgendaCenter",
+      "detail": "6 PM, 20 East Gay Street, Harrisonburg, after the separate 3 to 5 PM joint work session on the rental zoning amendment. The agenda, posted November 25, has two rezonings (Bear Crossing Townhomes and Dynamo Transport) and no short-term rental item.",
+      "link": "https://www.rockinghamcountyva.gov/AgendaCenter/ViewFile/Agenda/_12012026-988",
       "new": false
     },
     {
