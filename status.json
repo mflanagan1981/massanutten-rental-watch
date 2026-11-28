@@ -1,7 +1,7 @@
 {
   "title": "Massanutten Rental Watch",
-  "updated": "Friday, November 27, 2026, 6:50 AM Eastern",
-  "updated_date": "2026-11-27",
+  "updated": "Saturday, November 28, 2026, 6:50 AM Eastern",
+  "updated_date": "2026-11-28",
   "about": "Short-term rental news for Massanutten owners from public county and association records.",
   "signup": {
     "label": "Join the owners' email list",
@@ -143,7 +143,7 @@
           "date": "2026-11-24",
           "title": "Property owners association wrote the Board and Planning Commission about the zoning draft",
           "detail": "The Massanutten Property Owners Association sent the Board of Supervisors and the Planning Commission a letter dated November 24, 2026, signed by President Terry Wilmer, ahead of the December 1 work session on the draft short-term rental zoning amendment. The association emailed it to all owners on November 25. The letter asks that short-term rentals continue as permitted uses by right in the R-4 district with an administrative permit. It notes a problem with the master plan for \"recreational lodges\" in R-4. It notes that the two guests per bedroom plus four limit in Chapter 9 matches the association's own rule. It raises resale and assessed values and local jobs, and it asks how any protection for existing permitted rentals would be written into the ordinance.",
-          "new": true
+          "new": false
         },
         {
           "id": "county-permit-deadline-clarified-2026-11-25",
@@ -456,7 +456,7 @@
       "date": "2026-11-24",
       "title": "Property owners association wrote the Board and Planning Commission about the zoning draft",
       "detail": "The Massanutten Property Owners Association sent the Board of Supervisors and the Planning Commission a letter dated November 24, 2026, signed by President Terry Wilmer, ahead of the December 1 work session on the draft short-term rental zoning amendment. The association emailed it to all owners on November 25. The letter asks that short-term rentals continue as permitted uses by right in the R-4 district with an administrative permit. It notes a problem with the master plan for \"recreational lodges\" in R-4. It notes that the two guests per bedroom plus four limit in Chapter 9 matches the association's own rule. It raises resale and assessed values and local jobs, and it asks how any protection for existing permitted rentals would be written into the ordinance.",
-      "new": true
+      "new": false
     },
     {
       "id": "county-permit-deadline-clarified-2026-11-25",
